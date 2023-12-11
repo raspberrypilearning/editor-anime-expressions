@@ -1,59 +1,42 @@
-## Introduction
+<h2 class="c-project-heading--task">Add a title</h2>
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Your starter project contains some HTML that you will learn more about throughout the project. 
 
-### What you will make
+--- task ---
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+Click on the small triangle next to line 3 to collapse the `<head>`.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+![alt=""](images/step_2_collapse.gif)
+
+--- /task ---
+
+Add in an `<h1>` tag with some text to add a header to your webpage
+
+--- task ---
+
+Your code should look like this:
+
+<div class="c-project-code">
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 27
+line_highlights: 30
+---
+  <body>
+    <!-- The page header code goes here -->
+    <header>
+      <h1>Draw anime with me</h1>
+    </header>
+--- /code ---
 </div>
---- /no-print ---
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+<div class="c-project-callout c-project-callout--tip">
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+### Tip
 
-+ A computer or tablet capable of running Scratch 3
+When you open a tag `<h1<`{:.language-html} for example, the code editor will automatically add a closing tag `/<h1>`{:.language-html} 
 
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+</div>

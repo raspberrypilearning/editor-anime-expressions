@@ -1,23 +1,64 @@
-## Step title
+<h2 class="c-project-heading--task">Add a section</h2>
 
-Add an introductory sentence. What will learners achieve by the end of this step?
+On your web page, the main content is broken down into **sections**.
 
---- task ---
+-- task ---
 
-If working **online**, open the [starter project](https://rpf.io/p/en/projectName-on){:target="_blank"} in Scratch.
- 
-If working **offline**, open the project [starter file](https://rpf.io/p/en/projectName-get){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
+Add `<section></section>` tags between the `<main>` tags. 
 
-You should see...
- 
-![starter project](images/starter_project.png)
+<div class="c-project-code">
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 33
+line_highlights: 35-37
+---
+    <!-- The main content for the web page goes between the main tags -->
+    <main>
+      <section>
+
+      </section>
+        <!-- The first drawing and instructions go here -->  
+
+--- /code ---
+
+</div>
 
 --- /task ---
 
 --- task ---
 
-Step content...
+Now add the subheading text `Facial expressions` between the `<h2>` tags. Your code should look like this:
+
+<div class="c-project-code">
+
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 33
+line_highlights: 36
+---
+    <!-- The main content for the web page goes between the main tags -->
+    <main>
+      <section>
+        <h2>Facial expressions</h2>
+      </section>
+        <!-- The first drawing and instructions go here --> 
+
+--- /code ---
+
+</div>
 
 --- /task ---
 
---- save ---
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+`<h#>` tags can be numbered from 1 to 6. An `<h2>` tag makes a smaller heading than an `<h1>` tag
+
+</div>

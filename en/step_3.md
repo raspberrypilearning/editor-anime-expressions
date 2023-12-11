@@ -1,7 +1,31 @@
-## What next?
+<h2 class="c-project-heading--task">Add a paragraph</h2>
 
-If you are following the [PathwayName](https://projects.raspberrypi.org/en/raspberrypi/pathway-name) pathway, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+--- task ---
 
-![ProjectName project](images/projectname-project.png)
+Underneath your `<h2>` heading code, add the paragraph `<p>` tags. Between the `<p>` tags, add in some introductory text.
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+Your code should look like this:
+
+<div class="c-project-code">
+
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 33
+line_highlights: 37
+---
+    <!-- The main content for the web page goes between the main tags -->
+    <main>
+      <section>
+        <h2>Facial expressions</h2>
+        <p>Take a look at these facial expressions and try them in your own drawings.</p>
+      </section>
+        <!-- The first drawing and instructions go here --> 
+
+--- /code ---
+
+</div>
+
+--- /task ---
