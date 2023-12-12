@@ -1,41 +1,70 @@
-<h2 class="c-project-heading--task">Edit your style sheet</h2>
+<h2 class="c-project-heading--task">Add more styles</h2>
+
+You can add more than one CSS class to a tag. Your CSS file has three classes called `primary`, `secondary` and `teriary`.
+
+The `primary` class sets a contrasting background and text colour for most of the main content. 
+
+The `secondary` and `tertiary` classes set additional colour combinations that look good with the colours in the `primary` class.
 
 --- task ---
 
-Click on the `Project files` icon in the Code Editor then select the `style.css` file top open in in a new tab.
-
-![The Code Editor with the style.css file highlighted](images/select-style.png)
-
-**Find:** Scroll down and find the rule that controls the style of the `<h2>`. 
-
-At the moment, the `<h2>` heading is aligned to the left.
-
-Change the `text-align` property of the `h2` rule to `center`.
+Add the `secondary` class to your `footer` code to apply a different colour background to your footer. 
 
 <div class="c-project-code">
 --- code ---
 ---
-language: css
-filename: style.css
+language: html
+filename: index.html
 line_numbers: true
-line_number_start: 109
-line_highlights: 111
----  
-
-h2 {
-  font: var(--title-font); /* Font style stored in the title-font variable */
-  text-align: center; /* Align the text */
-  padding: 1.5rem; /* Add some space all around the heading */
-}
+line_number_start: 55
+line_highlights: 56
+---
+    <!-- web page footer -->
+    <footer class="border-top secondary">
 
 --- /code ---
 </div>
 
+--- /task ---
 
-<div class="c-project-callout c-project-callout--tip">
+--- task ---
 
-### Tip
+Add `class="primary"` to `<main>`.
 
-When you add CSS styling to an **element**, it applies that styling to every single element on the page that has the same tag. 
+<div class="c-project-code">
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 33
+line_highlights: 34
+---
+    <!-- The main content for the web page goes between the main tags -->
+    <main class="primary">
 
+--- /code ---
 </div>
+
+--- /task ---
+
+--- task ---
+
+Add `secondary` to `<header>`.
+
+<div class="c-project-code">
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 28
+line_highlights: 29
+---
+    <!-- The page header code goes here -->
+    <header class="border-bottom secondary">
+
+--- /code ---
+</div>
+
+--- /task ---
