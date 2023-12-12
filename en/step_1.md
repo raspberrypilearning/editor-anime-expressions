@@ -1,6 +1,6 @@
 <h2 class="c-project-heading--task">Add a header</h2>
 
-Your [starter](https://staging-editor.raspberrypi.org/en/projects/anime-expressions-starter-simplified) project contains some HTML that you will learn more about throughout the project. <!--Starter Project linked for testing purposes only-->
+Your [starter](https://staging-editor.raspberrypi.org/en/projects/editor-anime-expressions-starter) project contains some HTML that you will learn more about throughout the project. <!--Starter Project linked for testing purposes only-->
 
 --- task ---
 
