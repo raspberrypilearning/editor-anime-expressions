@@ -1,12 +1,8 @@
-<h2 class="c-project-heading--task">Align your content</h2>
-
-The `xcenter` class in your CSS file aligns items horizontally across the page. 
+<h2 class="c-project-heading--task">Style your image</h2>
 
 --- task ---
 
-Add `class="tertiary"` to the **first** `<section>` element.
-
-Also, add `class="xcenter"` to the `<p>` in the same section. 
+Add the `dashed-border` class to the `<img>`. 
 
 <div class="c-project-code">
 --- code ---
@@ -14,15 +10,38 @@ Also, add `class="xcenter"` to the `<p>` in the same section.
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 33
-line_highlights: 35, 37
+line_number_start: 39
+line_highlights: 41
 ---
-    <!-- The main content for the web page goes between the main tags -->
-    <main class="primary">
-      <section class="tertiary">
-        <h2>Facial expressions</h2>
-        <p class="xcenter">Take a look at these facial expressions and try them in your own drawings.</p>
-      </section>
+    <!-- The first drawing and instructions go here -->
+    <section>
+      <img class="dashed-border" src="love.png" alt="The love facial expression.">
+      <p>To make your anime character look like they are in love, replace the eyes with two rounded hearts. You can add three more hearts inside for a fun effect.</p>
+    </section>
+
+--- /code ---
+</div>
+
+--- /task ---
+
+--- task ---
+
+Next add the `rounded`{:.language-html} class to the `<img>`{:.language-html}. 
+
+<div class="c-project-code">
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 39
+line_highlights: 41
+---
+    <!-- The first drawing and instructions go here -->
+    <section>
+      <img class="dashed-border rounded" src="love.png" alt="The love facial expression.">
+      <p>To make your anime character look like they are in love, replace the eyes with two rounded hearts. You can add three more hearts inside for a fun effect.</p>
+    </section>
 
 --- /code ---
 </div>

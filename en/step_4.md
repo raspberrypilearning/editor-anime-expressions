@@ -3,9 +3,9 @@
 Your starter project contains images to use in this project. `love.png` is one of the images.
 
 --- task ---
-Add a new `<section>` tag and inside your new section, add an `<img>` tag to display an image. The `src` **attribute** gives the name of the image.
+Add a new `<section>`{:.language-html} tag and inside your new section, add an `<img>`{:.language-html} tag to display an image. The `src`{:.language-html} **attribute** gives the name of the image.
 
-The `<img>` tag doesn't have an end tag.
+The `<img>`{:.language-html} tag doesn't have an end tag.
  
  <div class="c-project-code">
 

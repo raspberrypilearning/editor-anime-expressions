@@ -1,12 +1,18 @@
-<h2 class="c-project-heading--task">Add some descriptive text</h2>
+<h2 class="c-project-heading--task">Style your page</h2>
+
+The next steps show you how to use CSS to change the colours, fonts, and layout on your web page.
 
 --- task ---
 
-Add a paragraph of text in `<p></p>` tags to describe how to draw the love anime facial expression. 
+Unfold the `<head>`{:.language-html} section of your code so that you can view the code inside it.
 
-You can copy the paragraph and paste it into your code: `<p>To make your anime character look like they are in love, replace the eyes with rounded hearts. You can add three more hearts inside for a fun effect.</p>`
+![The mouse clicks on the little triangle next to the line 3 number to collapse the head code.](images/step_2_collapse.gif)
 
-Add `<strong>` tags around the word 'love'
+--- /task ---
+
+--- task ---
+
+At the bottom of your `<head></head>`{:.language-html} section, remove the `<!--`{:.language-html} and `-->`{:.language-html} arrows from the start and end of both lines of link code:
 
 <div class="c-project-code">
 
@@ -15,14 +21,14 @@ Add `<strong>` tags around the word 'love'
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 39
-line_highlights: 42
+line_number_start: 21
+line_highlights: 23-24
 ---   
-      <!-- The first drawing and instructions go here -->     
-      <section>
-        <img src="love.png" alt="A line drawing of a smiling character with hearts for eyes.">
-        <p>To make your anime character look like they are in <strong>love</strong>, replace the eyes with two rounded hearts. You can add three more hearts inside for a fun effect.</p>
-      </section> 
+    <!-- Include CSS style file -->
+
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link href="candy.css" rel="stylesheet" type="text/css" />
+  </head>
 
 --- /code ---
 </div>
@@ -30,11 +36,9 @@ line_highlights: 42
 --- /task ---
 
 <div class="c-project-callout c-project-callout--tip">
-
 ### Tip
 
-The `<strong>` tag makes important text **bold**.
-
+To collapse the `<head>`{:.language-html} section after you have seen the change, click the arrow next to it. 
 </div>
 
 **Test:** Click the **Run** button. 

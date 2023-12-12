@@ -2,7 +2,7 @@
 
 --- task ---
 
-Underneath your `<h2>` heading code, add the paragraph `<p>` tags. Between the `<p>` tags, add in some introductory text.
+Underneath your `<h2>`{:.language-html} heading code, add the paragraph `<p>`{:.language-html} tags. Between the `<p>`{:.language-html} tags, add in some introductory text.
 
 Your code should look like this:
 

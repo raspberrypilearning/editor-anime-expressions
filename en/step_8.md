@@ -1,44 +1,29 @@
-<h2 class="c-project-heading--task">Edit your style sheet</h2>
+<h2 class="c-project-heading--task">Style your header</h2>
+
+If you want to apply styling to specific elements, you can create a **class** in a CSS file. You can then add a `class=` **attribute** to an element in your HTML code to let the browser know what styling should be applied. 
 
 --- task ---
 
-Click on the `Project files` icon in the Code Editor then select the `style.css` file top open in in a new tab.
-
-![The Code Editor with the style.css file highlighted](images/select-style.png)
-
-**Find:** Scroll down and find the rule that controls the style of the `<h2>`. 
-
-At the moment, the `<h2>` heading is aligned to the left.
-
-Change the `text-align` property of the `h2` rule to `center`.
+Add `class="border-bottom"`{:.language-html} in your `<header>`{:.language-html} teg.
 
 <div class="c-project-code">
 --- code ---
 ---
-language: css
-filename: style.css
+language: html
+filename: index.html
 line_numbers: true
-line_number_start: 109
-line_highlights: 111
----  
-
-h2 {
-  font: var(--title-font); /* Font style stored in the title-font variable */
-  text-align: center; /* Align the text */
-  padding: 1.5rem; /* Add some space all around the heading */
-}
+line_number_start: 27
+line_highlights: 29
+---
+  <body>
+    <!-- The page header code goes here -->
+    <header class="border-bottom">
+      <h1>Draw anime with me</h1>
+    </header>
 
 --- /code ---
 </div>
 
 --- /task ---
-
-<div class="c-project-callout c-project-callout--tip">
-
-### Tip
-
-When you add CSS styling to an **element**, it applies that styling to every single element on the page that has the same tag. 
-
-</div>
 
 **Test:** Click the **Run** button. 

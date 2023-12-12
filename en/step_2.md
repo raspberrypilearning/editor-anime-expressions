@@ -30,7 +30,7 @@ line_highlights: 35-37
 
 --- task ---
 
-Now add the subheading text `Facial expressions` between the `<h2>` tags. Your code should look like this:
+Now add the subheading text `Facial expressions`{:.language-html} between the `<h2>`{:.language-html} tags. Your code should look like this:
 
 <div class="c-project-code">
 
@@ -59,7 +59,7 @@ line_highlights: 36
 
 ### Tip
 
-`<h#>` tags can be numbered from 1 to 6. An `<h2>` tag makes a smaller heading than an `<h1>` tag
+`<h#>`{:.language-html} tags can be numbered from 1 to 6. An `<h2>`{:.language-html} tag makes a smaller heading than an `<h1>`{:.language-html} tag
 
 </div>
 
