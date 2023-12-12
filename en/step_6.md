@@ -27,6 +27,8 @@ line_highlights: 42
 --- /code ---
 </div>
 
+--- /task ---
+
 <div class="c-project-callout c-project-callout--tip">
 
 ### Tip
