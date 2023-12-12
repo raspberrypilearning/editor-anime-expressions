@@ -2,7 +2,7 @@
 
 On your web page, the main content is broken down into **sections**.
 
--- task ---
+--- task ---
 
 Add `<section></section>` tags between the `<main>` tags. 
 
