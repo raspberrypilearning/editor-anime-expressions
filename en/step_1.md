@@ -33,10 +33,13 @@ line_highlights: 30
 --- /code ---
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
+--- /task ---
 
+<div class="c-project-callout c-project-callout--tip">
 ### Tip
 
 When you open a tag `<h1<`{:.language-html} for example, the code editor will automatically add a closing tag `/<h1>`{:.language-html} 
 
 </div>
+
+**Test:** Click the **Run** button. 

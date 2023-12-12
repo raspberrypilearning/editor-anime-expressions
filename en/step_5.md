@@ -36,3 +36,5 @@ line_highlights: 41
 **Alternative (Alt) text** is a description of an image and is important in accessible web design to describe images to people who are unable to see them. The text does not appear on the web page but it is read aloud by screen readers.
 
 </div>
+
+**Test:** Click the **Run** button. 

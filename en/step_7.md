@@ -32,3 +32,11 @@ line_highlights: 23-24
 
 --- /code ---
 </div>
+
+<div class="c-project-callout c-project-callout--tip">
+### Tip
+
+To collapse the `<head>` section after you have seen the change, click the arrow next to it. 
+</div>
+
+**Test:** Click the **Run** button. 
