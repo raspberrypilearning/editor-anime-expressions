@@ -26,5 +26,9 @@ line_highlights: 24
 --- /task ---
 
 --- task ---
+
 Look at the other CSS files, and choose the one that you like the best.
+
 --- /task ---
+
+**Test:** Click the **Run** button. 

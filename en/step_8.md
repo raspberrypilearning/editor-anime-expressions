@@ -31,6 +31,7 @@ h2 {
 --- /code ---
 </div>
 
+--- /task ---
 
 <div class="c-project-callout c-project-callout--tip">
 
