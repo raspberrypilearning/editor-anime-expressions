@@ -13,8 +13,10 @@ line_numbers: true
 line_number_start: 55
 line_highlights: 56
 ---
-    <!-- web page footer -->
+    <!-- Footer code goes here -->
     <footer class="border-top">
+
+    </footer>
 
 --- /code ---
 </div>

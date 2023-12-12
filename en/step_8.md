@@ -4,7 +4,7 @@ If you want to apply styling to specific elements, you can create a **class** in
 
 --- task ---
 
-Add `class="border-bottom"`{:.language-html} in your `<header>`{:.language-html} teg.
+Back in your `index.html` file, add `class="border-bottom"`{:.language-html} in your `<header>`{:.language-html} tag.
 
 <div class="c-project-code">
 --- code ---

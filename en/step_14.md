@@ -1,6 +1,6 @@
 <h2 class="c-project-heading--task">Colours and fonts</h2>
 
-The starter project has several different CSS files that you can use.
+The starter project has a different CSS files that you can use.
 
 --- task ---
 
