@@ -4,7 +4,7 @@ On your web page, the main content is broken down into **sections**.
 
 --- task ---
 
-Add `<section></section>` tags between the `<main>` tags. 
+Add `<section></section>` {:.language-html} tags between the `<main>`{:.language-html} tags. 
 
 <div class="c-project-code">
 --- code ---
@@ -30,7 +30,7 @@ line_highlights: 35-37
 
 --- task ---
 
-Now add the subheading text `Facial expressions`{:.language-html} between the `<h2>`{:.language-html} tags. Your code should look like this:
+Now add the subheading text `Facial expressions` between the `<h2>`{:.language-html} tags. Your code should look like this:
 
 <div class="c-project-code">
 
@@ -59,7 +59,7 @@ line_highlights: 36
 
 ### Tip
 
-`<h#>`{:.language-html} tags can be numbered from 1 to 6. An `<h2>`{:.language-html} tag makes a smaller heading than an `<h1>`{:.language-html} tag
+You can use different numbers for `<h>`{:.language-html} tags from 1 to 6. An `<h2>`{:.language-html}> makes a smaller heading than an `<h1>`{:.language-html} tag.
 
 </div>
 

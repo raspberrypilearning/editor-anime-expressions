@@ -4,13 +4,15 @@ Your [starter](https://staging-editor.raspberrypi.org/en/projects/editor-anime-e
 
 --- task ---
 
-Click on the small triangle next to line 3 to collapse the `<head>`.
+Click on the small triangle next to line 3 to collapse the `<head>`{:.language-html}.
 
 ![alt=""](images/step_2_collapse.gif)
 
 --- /task ---
 
-Add in an `<h1>` tag with some text to add a header to your webpage
+Add in an `<h1>`{:.language-html} tag with some text to add a header to your webpage.
+
+The `<h1>` {:.language-html} tag is used to define the main heading of your webpage. It's like the title of a book.
 
 --- task ---
 
@@ -36,9 +38,10 @@ line_highlights: 30
 --- /task ---
 
 <div class="c-project-callout c-project-callout--tip">
+
 ### Tip
 
-When you open a tag `<h1>`{:.language-html} for example, the code editor will automatically add a closing tag `</h1>`{:.language-html} 
+When you open a tag like `<h1>`{:.language-html}, the code editor will automatically add a closing tag `</h1>`{:.language-html} for you.
 
 </div>
 

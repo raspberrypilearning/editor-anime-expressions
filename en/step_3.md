@@ -30,4 +30,12 @@ line_highlights: 37
 
 --- /task ---
 
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+In HTML, a "paragraph" tag `<p>`{:.language-html} is used to put sentences together, making your webpage look tidy and easy to read.
+
+</div>
+
 **Test:** Click the **Run** button. 
