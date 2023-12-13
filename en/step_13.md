@@ -6,7 +6,7 @@ CSS can be used to make your web page appear different when viewed on different 
 
 Find the **second** `<section>`{:.language-html}. 
 
-Add `class="wrap"`{:.language-html .tag} to the `<section>`{:.language-html} tag.
+Add `class="wrap"`{:.language-html} to the `<section>`{:.language-html} tag.
 
 <div class="c-project-code">
 --- code ---
