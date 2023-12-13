@@ -1,7 +1,7 @@
 <h2 class="c-project-heading--task">Edit your style sheet</h2>
 
 --- task ---
-
+Well done on the tasks completed so far!
 Click on the `Project files` icon in the Code Editor then select the `style.css` file top open in in a new tab.
 
 ![The Code Editor with the style.css file highlighted](images/select-style.png)

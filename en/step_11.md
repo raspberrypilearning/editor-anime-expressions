@@ -1,12 +1,10 @@
-<h2 class="c-project-heading--task">Align your content</h2>
+<h2 class="c-project-heading--task">Use more classes</h2>
 
-The `xcenter`{:.language-html} class in your CSS file aligns items horizontally across the page. 
+The `secondary` and `tertiary` classes set additional colour combinations that look good with the colours in the `primary` class.
 
 --- task ---
 
-Add `class="tertiary"`{:.language-html} to the **first** `<section>`{:.language-html} element.
-
-Also, add `class="xcenter"`{:.language-html} to the `<p>`{:.language-html} in the same section. 
+Add the `secondary` class to your `footer` code to apply a different colour background to your footer. 
 
 <div class="c-project-code">
 --- code ---
@@ -14,19 +12,45 @@ Also, add `class="xcenter"`{:.language-html} to the `<p>`{:.language-html} in th
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 33
-line_highlights: 35, 37
+line_number_start: 55
+line_highlights: 56
 ---
-    <!-- The main content for the web page goes between the main tags -->
-    <main class="primary">
-      <section class="tertiary">
-        <h2>Facial expressions</h2>
-        <p class="xcenter">Take a look at these facial expressions and try them in your own drawings.</p>
-      </section>
+    <!-- web page footer -->
+    <footer class="border-top secondary">
 
 --- /code ---
 </div>
 
 --- /task ---
+
+--- task ---
+
+Add `secondary` to `<header>`.
+
+<div class="c-project-code">
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 28
+line_highlights: 29
+---
+    <!-- The page header code goes here -->
+    <header class="border-bottom secondary">
+
+--- /code ---
+</div>
+
+--- /task ---
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+We use different styles for the header, main content, and footer to make each part look different and special.
+
+</div>
+
 
 **Test:** Click the **Run** button. 

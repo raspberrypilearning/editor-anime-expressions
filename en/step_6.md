@@ -1,6 +1,8 @@
 <h2 class="c-project-heading--task">Style your page</h2>
 
-The next steps show you how to use CSS to change the colours, fonts, and layout on your web page.
+Amazing work so far! The next steps show you how to use CSS to change the colours, fonts, and layout on your web page.
+
+CSS is a style sheet language that defines the presentation of HTML documents, including layout, colors, fonts, and spacing.
 
 --- task ---
 

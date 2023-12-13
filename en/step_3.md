@@ -1,6 +1,7 @@
 <h2 class="c-project-heading--task">Add a paragraph</h2>
 
 --- task ---
+Great work learning about more `<h>`{:.language-html} tags
 
 Underneath your `<h2>`{:.language-html} heading code, add the paragraph `<p>`{:.language-html} tags. Between the `<p>`{:.language-html} tags, add in some introductory text.
 

@@ -1,5 +1,6 @@
 <h2 class="c-project-heading--task">Add a section</h2>
 
+Well done! You added a heading to your web page.
 On your web page, the main content is broken down into **sections**.
 
 --- task ---

@@ -26,4 +26,12 @@ line_highlights: 29
 
 --- /task ---
 
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+When you add add `class="border-bottom"`{:.language-html} in your `<header>`{:.language-html} tag, it adds a special border at the bottom of our header to make it look cool
+
+</div>
+
 **Test:** Click the **Run** button. 

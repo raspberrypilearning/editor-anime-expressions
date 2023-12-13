@@ -1,6 +1,7 @@
 <h2 class="c-project-heading--task">Add some descriptive text</h2>
 
 --- task ---
+Fantastic effort! You added an image to your webpage.
 
 Add a paragraph of text in `<p></p>`{:.language-html} tags to describe how to draw the love anime facial expression. 
 
@@ -33,7 +34,8 @@ line_highlights: 42
 
 ### Tip
 
-The `<strong>`{:.language-html} tag makes important text **bold**.
+The `<strong>`{:.language-html} tag makes a word look bold and important, making it stand out
+
 
 </div>
 
