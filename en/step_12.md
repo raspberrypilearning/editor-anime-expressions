@@ -22,7 +22,7 @@ line_highlights: 56
 </div>
 
 
-Add `secondary` to `<header>`.
+Also, add the `secondary` class to `<header>`.
 
 <div class="c-project-code">
 --- code ---
