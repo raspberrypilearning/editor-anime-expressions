@@ -1,20 +1,16 @@
 <h2 class="c-project-heading--task">Add a header</h2>
 
-Your [starter](https://staging-editor.raspberrypi.org/en/projects/editor-anime-expressions-starter) project contains some HTML that you will learn more about throughout the project. <!--Starter Project linked for testing purposes only-->
-
 --- task ---
+
+Your [starter](https://staging-editor.raspberrypi.org/en/projects/editor-anime-expressions-starter) project contains some HTML that you will learn more about throughout the project. <!--Starter Project linked for testing purposes only-->
 
 Click on the small triangle next to line 3 to collapse the `<head>`{:.language-html}.
 
 ![alt=""](images/step_2_collapse.gif)
 
---- /task ---
-
 Add in an `<h1>`{:.language-html} tag with some text to add a header to your webpage.
 
 The `<h1>` {:.language-html} tag is used to define the main heading of your webpage. It's like the title of a book.
-
---- task ---
 
 Your code should look like this:
 

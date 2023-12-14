@@ -1,12 +1,8 @@
-<h2 class="c-project-heading--task">Add more styles</h2>
-
-You can add more than one CSS class to a tag. Your CSS file has three classes called `primary`, `secondary` and `teriary`.
-
-The `primary` class sets a contrasting background and text colour for most of the main content. 
+<h2 class="c-project-heading--task">Style your footer</h2>
 
 --- task ---
 
-Add `class="primary"` to `<main>`.
+Add the `border-top`{:.language-html} class to your `footer`{:.language-html} code to apply a thick border to the top of your footer. 
 
 <div class="c-project-code">
 --- code ---
@@ -14,11 +10,13 @@ Add `class="primary"` to `<main>`.
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 33
-line_highlights: 34
+line_number_start: 55
+line_highlights: 56
 ---
-    <!-- The main content for the web page goes between the main tags -->
-    <main class="primary">
+    <!-- Footer code goes here -->
+    <footer class="border-top">
+
+    </footer>
 
 --- /code ---
 </div>

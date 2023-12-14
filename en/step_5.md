@@ -1,15 +1,16 @@
-<h2 class="c-project-heading--task">Add some descriptive text</h2>
+<h2 class="c-project-heading--task">Add a facial expression</h2>
 
 --- task ---
-Fantastic effort! You added an image to your webpage.
 
-Add a paragraph of text in `<p></p>`{:.language-html} tags to describe how to draw the love anime facial expression. 
+Brilliant stuff! You've added some content to your web page.
 
-You can copy the paragraph and paste it into your code: `<p>To make your anime character look like they are in love, replace the eyes with rounded hearts. You can add three more hearts inside for a fun effect.</p>`{:.language-html}
+Your starter project contains images to use in this project. `love.png` is one of the images.
 
-Add `<strong>`{:.language-html} tags around the word 'love'
+Add a new `<section>`{:.language-html} tag and inside your new section, add an `<img>`{:.language-html} tag to display an image on your webpage. The `src`{:.language-html} **attribute** gives the name of the image.
 
-<div class="c-project-code">
+The `<img>`{:.language-html} tag doesn't have an end tag.
+ 
+ <div class="c-project-code">
 
 --- code ---
 ---
@@ -17,15 +18,15 @@ language: html
 filename: index.html
 line_numbers: true
 line_number_start: 39
-line_highlights: 42
+line_highlights: 40-42
 ---   
       <!-- The first drawing and instructions go here -->     
       <section>
         <img src="love.png" alt="A line drawing of a smiling character with hearts for eyes.">
-        <p>To make your anime character look like they are in <strong>love</strong>, replace the eyes with two rounded hearts. You can add three more hearts inside for a fun effect.</p>
       </section> 
 
 --- /code ---
+
 </div>
 
 --- /task ---
@@ -34,8 +35,7 @@ line_highlights: 42
 
 ### Tip
 
-The `<strong>`{:.language-html} tag makes a word look bold and important, making it stand out
-
+**Alternative (Alt) text** is a description of an image and is important in accessible web design to describe images to people who are unable to see them. The text does not appear on the web page but it is read aloud by screen readers.
 
 </div>
 
