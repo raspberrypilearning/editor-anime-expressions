@@ -25,7 +25,7 @@ steps:
   - title: Step 17
   - title: Step 18
   - title: Step 19
-      knowledge_quiz:
+    knowledge_quiz:
       path: quiz1
       version: 1
       questions: 3
