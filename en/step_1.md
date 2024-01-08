@@ -2,7 +2,7 @@
 
 --- task ---
 
-Your [starter](https://staging-editor.raspberrypi.org/en/projects/editor-anime-expressions-starter) project contains some HTML that you will learn more about throughout the project. <!--Starter Project linked for testing purposes only-->
+The starter project to the right has some code already written for you.
 
 Click on the small triangle next to line 3 to collapse the `<head>`{:.language-html}.
 
