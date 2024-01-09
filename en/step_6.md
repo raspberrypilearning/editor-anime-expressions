@@ -8,7 +8,7 @@ Add a paragraph of text in `<p></p>`{:.language-html} tags to describe how to dr
 
 You can copy the paragraph and paste it into your code: `<p>To make your anime character look like they are in love, replace the eyes with rounded hearts. You can add three more hearts inside for a fun effect.</p>`{:.language-html}
 
-Add `<strong>`{:.language-html} tags around the word 'love'
+Add `<strong>`{:.language-html} tags around the word 'love'.
 
 <div class="c-project-code">
 
@@ -35,7 +35,7 @@ line_highlights: 42
 
 ### Tip
 
-The `<strong>`{:.language-html} tag makes a word look bold and important, making it stand out
+The `<strong>`{:.language-html} tag makes a word look bold and important, making it stand out.
 
 
 </div>
