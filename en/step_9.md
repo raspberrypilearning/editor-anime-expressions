@@ -30,7 +30,7 @@ line_highlights: 29
 
 ### Tip
 
-When you add add `class="border-bottom"`{:.language-html} in your `<header>`{:.language-html} tag, it adds a special border at the bottom of our header to make it look cool
+When you add add `class="border-bottom"`{:.language-html} in your `<header>`{:.language-html} tag, it adds a special border at the bottom of our header to make it look cool.
 
 </div>
 

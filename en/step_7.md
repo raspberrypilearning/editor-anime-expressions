@@ -37,7 +37,7 @@ line_highlights: 23-24
 
 To collapse the `<head>`{:.language-html} section after you have seen the change, click the arrow next to it. 
 
-CSS is a style sheet language that defines the presentation of HTML documents, including layout, colors, fonts, and spacing.
+CSS is a style sheet language that defines the presentation of HTML documents, including layout, colours, fonts, and spacing.
 
 </div>
 

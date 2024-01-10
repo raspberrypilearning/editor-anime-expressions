@@ -28,4 +28,4 @@ line_highlights: 40
 
 --- /task ---
 
-**Test:** Click the **Run** button. 
+**Test:** Click the **Run** button. Adjust the size of the output window to see responsiveness of your page.
