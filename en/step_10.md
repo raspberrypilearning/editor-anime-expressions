@@ -4,6 +4,8 @@
 
 Add the `border-top`{:.language-html} class to your `footer`{:.language-html} code to apply a thick border to the top of your footer. 
 
+--- /task ---
+
 <div class="c-project-code">
 --- code ---
 ---
@@ -21,6 +23,5 @@ line_highlights: 56
 --- /code ---
 </div>
 
---- /task ---
 
 **Test:** Click the **Run** button. 

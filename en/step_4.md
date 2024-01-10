@@ -6,6 +6,8 @@ Great work learning about more `<h>`{:.language-html} tags.
 
 Underneath your `<h2>`{:.language-html} heading code, add the paragraph `<p>`{:.language-html} tags. Between the `<p>`{:.language-html} tags, add in some introductory text.
 
+--- /task ---
+
 Your code should look like this:
 
 <div class="c-project-code">
@@ -30,7 +32,7 @@ line_highlights: 37
 
 </div>
 
---- /task ---
+
 
 <div class="c-project-callout c-project-callout--tip">
 

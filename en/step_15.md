@@ -2,7 +2,9 @@
 
 --- task ---
 
-Next add the `rounded`{:.language-html} class to the `<img>`{:.language-html}. 
+Next add the `rounded`{:.language-html} class to the `<img>`{:.language-html}.
+
+--- /task ---
 
 <div class="c-project-code">
 --- code ---
@@ -22,6 +24,5 @@ line_highlights: 41
 --- /code ---
 </div>
 
---- /task ---
 
 **Test:** Click the **Run** button. 

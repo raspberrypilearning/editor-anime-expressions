@@ -8,6 +8,8 @@ Find the **second** `<section>`{:.language-html}.
 
 Add `class="wrap"`{:.language-html} to the `<section>`{:.language-html} tag.
 
+--- /task ---
+
 <div class="c-project-code">
 --- code ---
 ---
@@ -25,7 +27,5 @@ line_highlights: 40
 
 --- /code ---
 </div>
-
---- /task ---
 
 **Test:** Click the **Run** button. Adjust the size of the output window to see responsiveness of your page.

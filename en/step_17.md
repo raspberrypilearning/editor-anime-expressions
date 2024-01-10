@@ -6,6 +6,8 @@ The starter project has different CSS files that you can use.
 
 Go to `index.html` and change the CSS link code to link to the `vivid.css` file: 
 
+--- /task ---
+
 <div class="c-project-code">
 --- code ---
 ---
@@ -23,7 +25,6 @@ line_highlights: 24
 --- /code ---
 </div>
 
---- /task ---
 
 <div class="c-project-callout c-project-callout--tip">
 

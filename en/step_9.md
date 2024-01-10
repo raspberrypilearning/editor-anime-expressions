@@ -6,6 +6,8 @@ If you want to apply styling to specific elements, you can create a **class** in
 
 Back in your `index.html` file, add `class="border-bottom"`{:.language-html} in your `<header>`{:.language-html} tag.
 
+--- /task ---
+
 <div class="c-project-code">
 --- code ---
 ---
@@ -24,7 +26,7 @@ line_highlights: 29
 --- /code ---
 </div>
 
---- /task ---
+
 
 <div class="c-project-callout c-project-callout--tip">
 

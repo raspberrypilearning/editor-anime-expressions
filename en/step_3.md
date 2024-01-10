@@ -4,7 +4,11 @@
 
 Amazing! You've added sections to your web page!
 
-Now add the subheading text `Facial expressions` between the `<h2>`{:.language-html} tags. Your code should look like this:
+Now add the subheading text `Facial expressions` between the `<h2>`{:.language-html} tags.
+
+--- /task ---
+
+Your code should look like this:
 
 <div class="c-project-code">
 
@@ -26,8 +30,6 @@ line_highlights: 36
 --- /code ---
 
 </div>
-
---- /task ---
 
 <div class="c-project-callout c-project-callout--tip">
 

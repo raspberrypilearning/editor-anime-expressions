@@ -8,6 +8,8 @@ There are two more images that you can use in your project; `happy.png` and `ann
 
 Use the other two images and add descriptions and styling to them, in `<section>`{:.language-html} tags, as you did with the `love.png` image.
 
+--- /task ---
+
 <div class="c-project-code">
 --- code ---
 ---
@@ -25,6 +27,5 @@ line_highlights:
 
 --- /code ---
 </div>
---- /task ---
 
 **Test:** Click the **Run** button. 
