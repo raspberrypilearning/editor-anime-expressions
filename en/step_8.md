@@ -13,6 +13,8 @@ At the moment, the `<h2>`{:.language-html} heading is aligned to the left.
 
 Change the `text-align`{:.language-html} property of the `h2`{:.language-html} rule to `center`.
 
+--- /task ---
+
 <div class="c-project-code">
 --- code ---
 ---
@@ -31,8 +33,6 @@ h2 {
 
 --- /code ---
 </div>
-
---- /task ---
 
 <div class="c-project-callout c-project-callout--tip">
 

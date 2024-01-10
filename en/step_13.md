@@ -6,7 +6,9 @@ The `xcenter`{:.language-html} class in your CSS file aligns items horizontally 
 
 Add `class="tertiary"`{:.language-html} to the **first** `<section>`{:.language-html} element.
 
-Also, add `class="xcenter"`{:.language-html} to the `<p>`{:.language-html} in the same section. 
+Also, add `class="xcenter"`{:.language-html} to the `<p>`{:.language-html} in the same section.
+
+--- /task ---
 
 <div class="c-project-code">
 --- code ---
@@ -27,6 +29,6 @@ line_highlights: 35, 37
 --- /code ---
 </div>
 
---- /task ---
+
 
 **Test:** Click the **Run** button. 

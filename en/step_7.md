@@ -10,6 +10,8 @@ Unfold the `<head>`{:.language-html} section of your code so that you can view t
 
 At the bottom of your `<head></head>`{:.language-html} section, remove the `<!--`{:.language-html} and `-->`{:.language-html} arrows from the start and end of both lines of link code:
 
+--- /task ---
+
 <div class="c-project-code">
 
 --- code ---
@@ -28,8 +30,6 @@ line_highlights: 23-24
 
 --- /code ---
 </div>
-
---- /task ---
 
 <div class="c-project-callout c-project-callout--tip">
 

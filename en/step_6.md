@@ -10,6 +10,8 @@ You can copy the paragraph and paste it into your code: `<p>To make your anime c
 
 Add `<strong>`{:.language-html} tags around the word 'love'.
 
+--- /task ---
+
 <div class="c-project-code">
 
 --- code ---
@@ -28,8 +30,6 @@ line_highlights: 42
 
 --- /code ---
 </div>
-
---- /task ---
 
 <div class="c-project-callout c-project-callout--tip">
 

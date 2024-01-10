@@ -8,6 +8,10 @@ On your web page, the main content is broken down into **sections**.
 
 Add `<section></section>` {:.language-html} tags between the `<main>`{:.language-html} tags. 
 
+--- /task ---
+
+Your code should look like this:
+
 <div class="c-project-code">
 --- code ---
 ---
@@ -28,4 +32,4 @@ line_highlights: 35-37
 
 </div>
 
---- /task ---
+

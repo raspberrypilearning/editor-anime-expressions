@@ -8,6 +8,8 @@ The `primary` class sets a contrasting background and text colour for most of th
 
 Add `class="primary"` to `<main>`.
 
+--- /task ---
+
 <div class="c-project-code">
 --- code ---
 ---
@@ -23,6 +25,6 @@ line_highlights: 34
 --- /code ---
 </div>
 
---- /task ---
+
 
 **Test:** Click the **Run** button. 

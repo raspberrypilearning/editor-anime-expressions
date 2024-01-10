@@ -4,6 +4,8 @@
 
 Add the `dashed-border` class to the `<img>`. 
 
+--- /task ---
+
 <div class="c-project-code">
 --- code ---
 ---
@@ -21,7 +23,5 @@ line_highlights: 41
 
 --- /code ---
 </div>
-
---- /task ---
 
 **Test:** Click the **Run** button. 

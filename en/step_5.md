@@ -9,6 +9,8 @@ Your starter project contains images to use in this project. `love.png` is one o
 Add a new `<section>`{:.language-html} tag and inside your new section, add an `<img>`{:.language-html} tag to display an image on your webpage. The `src`{:.language-html} **attribute** gives the name of the image.
 
 The `<img>`{:.language-html} tag doesn't have an end tag.
+
+--- /task ---
  
  <div class="c-project-code">
 
@@ -29,7 +31,7 @@ line_highlights: 40, 41, 42
 
 </div>
 
---- /task ---
+
 
 <div class="c-project-callout c-project-callout--tip">
 

@@ -12,6 +12,8 @@ Add in an `<h1>`{:.language-html} tag with some text to add a header to your web
 
 The `<h1>`{:.language-html} tag is used to define the main heading of your webpage. It's like the title of a book.
 
+--- /task ---
+
 Your code should look like this:
 
 <div class="c-project-code">
@@ -31,7 +33,6 @@ line_highlights: 30
 --- /code ---
 </div>
 
---- /task ---
 
 <div class="c-project-callout c-project-callout--tip">
 

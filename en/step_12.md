@@ -4,7 +4,11 @@
 
 The `secondary` and `tertiary` classes set additional colour combinations that look good with the colours in the `primary` class.
 
-Add the `secondary` class to your `footer` code to apply a different colour background to your footer. 
+Add the `secondary` class to your `footer` code to apply a different colour background to your footer.
+
+Also, add the `secondary` class to `<header>`.
+
+--- /task ---
 
 <div class="c-project-code">
 --- code ---
@@ -21,9 +25,6 @@ line_highlights: 56
 --- /code ---
 </div>
 
-
-Also, add the `secondary` class to `<header>`.
-
 <div class="c-project-code">
 --- code ---
 ---
@@ -38,8 +39,6 @@ line_highlights: 29
 
 --- /code ---
 </div>
-
---- /task ---
 
 <div class="c-project-callout c-project-callout--tip">
 
