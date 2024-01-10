@@ -1,10 +1,8 @@
-<h2 class="c-project-heading--task">Add more images</h2>
-
-There are two more images that you can use in your project; `happy.png` and `annoyed.png`.
+<h2 class="c-project-heading--task">Style your image</h2>
 
 --- task ---
 
-Use the other two images and add descriptions and styling to them, in `<section>`{:.language-html} tags, as you did with the `love.png` image.
+Next add the `rounded`{:.language-html} class to the `<img>`{:.language-html}. 
 
 <div class="c-project-code">
 --- code ---
@@ -12,17 +10,18 @@ Use the other two images and add descriptions and styling to them, in `<section>
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 47
-line_highlights:
----   
-      <!-- The second drawing and instructions go here -->
-
-        
-        
-      <!-- The third drawing and instructions go here -->
+line_number_start: 39
+line_highlights: 41
+---
+    <!-- The first drawing and instructions go here -->
+    <section>
+      <img class="dashed-border rounded" src="love.png" alt="The love facial expression.">
+      <p>To make your anime character look like they are in love, replace the eyes with two rounded hearts. You can add three more hearts inside for a fun effect.</p>
+    </section>
 
 --- /code ---
 </div>
+
 --- /task ---
 
 **Test:** Click the **Run** button. 

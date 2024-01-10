@@ -1,12 +1,12 @@
-<h2 class="c-project-heading--task">Align your content</h2>
-
-The `xcenter`{:.language-html} class in your CSS file aligns items horizontally across the page. 
+<h2 class="c-project-heading--task">Add more styles</h2>
 
 --- task ---
 
-Add `class="tertiary"`{:.language-html} to the **first** `<section>`{:.language-html} element.
+You can add more than one CSS class to a tag. Your CSS file has three classes called `primary`, `secondary` and `teriary`.
 
-Also, add `class="xcenter"`{:.language-html} to the `<p>`{:.language-html} in the same section. 
+The `primary` class sets a contrasting background and text colour for most of the main content. 
+
+Add `class="primary"` to `<main>`.
 
 <div class="c-project-code">
 --- code ---
@@ -15,14 +15,10 @@ language: html
 filename: index.html
 line_numbers: true
 line_number_start: 33
-line_highlights: 35, 37
+line_highlights: 34
 ---
     <!-- The main content for the web page goes between the main tags -->
     <main class="primary">
-      <section class="tertiary">
-        <h2>Facial expressions</h2>
-        <p class="xcenter">Take a look at these facial expressions and try them in your own drawings.</p>
-      </section>
 
 --- /code ---
 </div>

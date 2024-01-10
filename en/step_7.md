@@ -1,32 +1,30 @@
-<h2 class="c-project-heading--task">Edit your style sheet</h2>
+<h2 class="c-project-heading--task">Style your page</h2>
 
 --- task ---
 
-Click on the `Project files` icon in the Code Editor then select the `style.css` file top open in in a new tab.
+Amazing work so far! The next steps show you how to use CSS to change the colours, fonts, and layout on your web page.
 
-![The Code Editor with the style.css file highlighted](images/select-style.png)
+Unfold the `<head>`{:.language-html} section of your code so that you can view the code inside it.
 
-**Find:** Scroll down and find the rule that controls the style of the `<h2>`{:.language-html}. 
+![The mouse clicks on the little triangle next to the line 3 number to collapse the head code.](images/step_2_collapse.gif)
 
-At the moment, the `<h2>`{:.language-html} heading is aligned to the left.
-
-Change the `text-align`{:.language-html} property of the `h2`{:.language-html} rule to `center`.
+At the bottom of your `<head></head>`{:.language-html} section, remove the `<!--`{:.language-html} and `-->`{:.language-html} arrows from the start and end of both lines of link code:
 
 <div class="c-project-code">
+
 --- code ---
 ---
-language: css
-filename: style.css
+language: html
+filename: index.html
 line_numbers: true
-line_number_start: 109
-line_highlights: 111
----  
+line_number_start: 21
+line_highlights: 23-24
+---   
+    <!-- Include CSS style file -->
 
-h2 {
-  font: var(--title-font); /* Font style stored in the title-font variable */
-  text-align: center; /* Align the text */
-  padding: 1.5rem; /* Add some space all around the heading */
-}
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link href="candy.css" rel="stylesheet" type="text/css" />
+  </head>
 
 --- /code ---
 </div>
@@ -37,7 +35,9 @@ h2 {
 
 ### Tip
 
-When you add CSS styling to an **element**, it applies that styling to every single element on the page that has the same tag. 
+To collapse the `<head>`{:.language-html} section after you have seen the change, click the arrow next to it. 
+
+CSS is a style sheet language that defines the presentation of HTML documents, including layout, colours, fonts, and spacing.
 
 </div>
 

@@ -1,12 +1,12 @@
-<h2 class="c-project-heading--task">Make it responsive</h2>
-
-CSS can be used to make your web page appear different when viewed on different devices.
+<h2 class="c-project-heading--task">Align your content</h2>
 
 --- task ---
 
-Find the **second** `<section>`{:.language-html}. 
+The `xcenter`{:.language-html} class in your CSS file aligns items horizontally across the page. 
 
-Add `class="wrap"`{:.language-html} to the `<section>`{:.language-html} tag.
+Add `class="tertiary"`{:.language-html} to the **first** `<section>`{:.language-html} element.
+
+Also, add `class="xcenter"`{:.language-html} to the `<p>`{:.language-html} in the same section. 
 
 <div class="c-project-code">
 --- code ---
@@ -14,14 +14,15 @@ Add `class="wrap"`{:.language-html} to the `<section>`{:.language-html} tag.
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 39
-line_highlights: 40
+line_number_start: 33
+line_highlights: 35, 37
 ---
-    <!-- The first drawing and instructions go here -->
-    <section class="wrap">
-      <img src="love.png" alt="A line drawing of a smiling character with hearts for eyes.">
-      <p>To make your anime character look like they are in love, replace the eyes with two rounded hearts. You can add three more hearts inside for a fun effect.</p>
-    </section>
+    <!-- The main content for the web page goes between the main tags -->
+    <main class="primary">
+      <section class="tertiary">
+        <h2>Facial expressions</h2>
+        <p class="xcenter">Take a look at these facial expressions and try them in your own drawings.</p>
+      </section>
 
 --- /code ---
 </div>

@@ -1,26 +1,30 @@
-<h2 class="c-project-heading--task">Add a facial expression</h2>
-
-Your starter project contains images to use in this project. `love.png` is one of the images.
+<h2 class="c-project-heading--task">Add a paragraph</h2>
 
 --- task ---
-Add a new `<section>`{:.language-html} tag and inside your new section, add an `<img>`{:.language-html} tag to display an image. The `src`{:.language-html} **attribute** gives the name of the image.
 
-The `<img>`{:.language-html} tag doesn't have an end tag.
- 
- <div class="c-project-code">
+Great work learning about more `<h>`{:.language-html} tags.
+
+Underneath your `<h2>`{:.language-html} heading code, add the paragraph `<p>`{:.language-html} tags. Between the `<p>`{:.language-html} tags, add in some introductory text.
+
+Your code should look like this:
+
+<div class="c-project-code">
 
 --- code ---
 ---
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 39
-line_highlights: 40-42
----   
-      <!-- The first drawing and instructions go here -->     
+line_number_start: 33
+line_highlights: 37
+---
+    <!-- The main content for the web page goes between the main tags -->
+    <main>
       <section>
-        <img src="love.png" alt="A line drawing of a smiling character with hearts for eyes.">
-      </section> 
+        <h2>Facial expressions</h2>
+        <p>Take a look at these facial expressions and try them in your own drawings.</p>
+      </section>
+        <!-- The first drawing and instructions go here --> 
 
 --- /code ---
 
@@ -32,7 +36,7 @@ line_highlights: 40-42
 
 ### Tip
 
-**Alternative (Alt) text** is a description of an image and is important in accessible web design to describe images to people who are unable to see them. The text does not appear on the web page but it is read aloud by screen readers.
+In HTML, a "paragraph" tag `<p>`{:.language-html} is used to put sentences together, making your webpage look tidy and easy to read.
 
 </div>
 

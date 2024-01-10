@@ -1,10 +1,8 @@
-<h2 class="c-project-heading--task">Colours and fonts</h2>
-
-The starter project has a different CSS files that you can use.
+<h2 class="c-project-heading--task">Style your image</h2>
 
 --- task ---
 
-Go to `index.html` and change the CSS link code to link to the `vivid.css` file: 
+Add the `dashed-border` class to the `<img>`. 
 
 <div class="c-project-code">
 --- code ---
@@ -12,22 +10,17 @@ Go to `index.html` and change the CSS link code to link to the `vivid.css` file:
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 21
-line_highlights: 24
----   
-    <!-- Include CSS style file -->
-
-    <link href="style.css" rel="stylesheet" type="text/css" />
-    <link href="vivid.css" rel="stylesheet" type="text/css" />
+line_number_start: 39
+line_highlights: 41
+---
+    <!-- The first drawing and instructions go here -->
+    <section>
+      <img class="dashed-border" src="love.png" alt="The love facial expression.">
+      <p>To make your anime character look like they are in love, replace the eyes with two rounded hearts. You can add three more hearts inside for a fun effect.</p>
+    </section>
 
 --- /code ---
 </div>
-
---- /task ---
-
---- task ---
-
-Look at the other CSS files, and choose the one that you like the best.
 
 --- /task ---
 

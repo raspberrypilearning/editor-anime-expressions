@@ -1,8 +1,10 @@
-<h2 class="c-project-heading--task">Style your image</h2>
+<h2 class="c-project-heading--task">Use more classes</h2>
 
 --- task ---
 
-Add the `dashed-border` class to the `<img>`. 
+The `secondary` and `tertiary` classes set additional colour combinations that look good with the colours in the `primary` class.
+
+Add the `secondary` class to your `footer` code to apply a different colour background to your footer. 
 
 <div class="c-project-code">
 --- code ---
@@ -10,23 +12,17 @@ Add the `dashed-border` class to the `<img>`.
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 39
-line_highlights: 41
+line_number_start: 55
+line_highlights: 56
 ---
-    <!-- The first drawing and instructions go here -->
-    <section>
-      <img class="dashed-border" src="love.png" alt="The love facial expression.">
-      <p>To make your anime character look like they are in love, replace the eyes with two rounded hearts. You can add three more hearts inside for a fun effect.</p>
-    </section>
+    <!-- web page footer -->
+    <footer class="border-top secondary">
 
 --- /code ---
 </div>
 
---- /task ---
 
---- task ---
-
-Next add the `rounded`{:.language-html} class to the `<img>`{:.language-html}. 
+Also, add the `secondary` class to `<header>`.
 
 <div class="c-project-code">
 --- code ---
@@ -34,18 +30,24 @@ Next add the `rounded`{:.language-html} class to the `<img>`{:.language-html}.
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 39
-line_highlights: 41
+line_number_start: 28
+line_highlights: 29
 ---
-    <!-- The first drawing and instructions go here -->
-    <section>
-      <img class="dashed-border rounded" src="love.png" alt="The love facial expression.">
-      <p>To make your anime character look like they are in love, replace the eyes with two rounded hearts. You can add three more hearts inside for a fun effect.</p>
-    </section>
+    <!-- The page header code goes here -->
+    <header class="border-bottom secondary">
 
 --- /code ---
 </div>
 
 --- /task ---
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+We use different styles for the header, main content, and footer to make each part look different and special.
+
+</div>
+
 
 **Test:** Click the **Run** button. 
