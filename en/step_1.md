@@ -4,7 +4,7 @@ Your [starter](https://staging-editor.raspberrypi.org/en/projects/editor-anime-e
 
 --- task ---
 
-Click on the small triangle next to line 3 to collapse the `<head>`.
+Click on the small triangle next to line 3 to collapse the `<head>`{:.language-html}.
 
 ![alt=""](images/step_2_collapse.gif)
 
