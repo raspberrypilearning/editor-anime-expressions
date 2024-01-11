@@ -19,8 +19,8 @@ Add `<strong>`{:.language-html} tags around the word 'love'.
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 39
-line_highlights: 42
+line_number_start: 40
+line_highlights: 43
 ---   
       <!-- The first drawing and instructions go here -->     
       <section>

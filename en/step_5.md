@@ -19,8 +19,8 @@ The `<img>`{:.language-html} tag doesn't have an end tag.
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 39
-line_highlights: 40, 41, 42
+line_number_start: 40
+line_highlights: 41-43
 ---   
       <!-- The first drawing and instructions go here -->     
       <section>
@@ -42,3 +42,7 @@ line_highlights: 40, 41, 42
 </div>
 
 **Test:** Click the **Run** button. 
+
+Your page should now have an image.
+
+![page with headings and an image of an anime character](images/page_with_image.png)

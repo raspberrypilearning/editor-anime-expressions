@@ -32,8 +32,6 @@ line_highlights: 37
 
 </div>
 
-
-
 <div class="c-project-callout c-project-callout--tip">
 
 ### Tip
@@ -42,4 +40,7 @@ In HTML, a "paragraph" tag `<p>`{:.language-html} is used to put sentences toget
 
 </div>
 
-**Test:** Click the **Run** button. 
+**Test:** Click the **Run** button.
+
+Your page should look like this:
+![text only page containing the header and paragraph text](images/text_only_page.png)

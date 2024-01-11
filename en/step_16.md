@@ -16,8 +16,8 @@ Add `class="wrap"`{:.language-html} to the `<section>`{:.language-html} tag.
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 39
-line_highlights: 40
+line_number_start: 40
+line_highlights: 41
 ---
     <!-- The first drawing and instructions go here -->
     <section class="wrap">
@@ -29,3 +29,5 @@ line_highlights: 40
 </div>
 
 **Test:** Click the **Run** button. Adjust the size of the output window to see responsiveness of your page.
+
+![image resized for screen](images/responsive-image.png)

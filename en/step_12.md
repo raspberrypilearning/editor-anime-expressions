@@ -16,11 +16,11 @@ Also, add the `secondary` class to `<header>`.
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 55
-line_highlights: 56
+line_number_start: 28
+line_highlights: 29
 ---
-    <!-- web page footer -->
-    <footer class="border-top secondary">
+    <!-- The page header code goes here -->
+    <header class="border-bottom secondary">
 
 --- /code ---
 </div>
@@ -31,11 +31,11 @@ line_highlights: 56
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 28
-line_highlights: 29
+line_number_start: 56
+line_highlights: 57
 ---
-    <!-- The page header code goes here -->
-    <header class="border-bottom secondary">
+    <!-- Footer code goes here. -->
+    <footer class="border-top secondary">
 
 --- /code ---
 </div>

@@ -41,4 +41,8 @@ CSS is a style sheet language that defines the presentation of HTML documents, i
 
 </div>
 
-**Test:** Click the **Run** button. 
+**Test:** Click the **Run** button.
+
+Now your page should look like this:
+
+![style changed for fonts and background](images/style_changed.png)
