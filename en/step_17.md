@@ -35,3 +35,5 @@ Try out different styles for your web page. Look at the other CSS files, and cho
 </div>
 
 **Test:** Click the **Run** button. 
+
+![page restyled with colours and fonts](images/vivid_style.png)

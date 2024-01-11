@@ -12,8 +12,8 @@ Add the `border-top`{:.language-html} class to your `footer`{:.language-html} co
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 55
-line_highlights: 56
+line_number_start: 56
+line_highlights: 57
 ---
     <!-- Footer code goes here -->
     <footer class="border-top">
@@ -25,3 +25,7 @@ line_highlights: 56
 
 
 **Test:** Click the **Run** button. 
+
+You should see a border in the footer of your page
+
+![a blue border on the footer](images/footer-border.png)

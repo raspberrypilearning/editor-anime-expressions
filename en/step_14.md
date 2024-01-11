@@ -12,8 +12,8 @@ Add the `dashed-border` class to the `<img>`.
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 39
-line_highlights: 41
+line_number_start: 40
+line_highlights: 42
 ---
     <!-- The first drawing and instructions go here -->
     <section>
@@ -25,3 +25,5 @@ line_highlights: 41
 </div>
 
 **Test:** Click the **Run** button. 
+
+![images with a blue dashed-border](images/dashed-border.png)
