@@ -49,7 +49,7 @@ body {
   /*background-size: cover;*/ /* Make the image cover the whole container */
 }
 
-/* The main content of the page between the header and footer. */
+/* The main content of the page between the header and footer */
 main {
   background: var(--primary); /* Colour the background */
   color: var(--onprimary); /* Colour the text */
