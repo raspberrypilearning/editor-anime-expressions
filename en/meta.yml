@@ -7,7 +7,7 @@ copyedit: false
 last_tested: "2022-05-19"
 steps:
   - title: Step 1
-      completion:
+    completion:
       - engaged
   - title: Step 2
   - title: Step 3
@@ -26,7 +26,7 @@ steps:
   - title: Step 16
   - title: Step 17
   - title: Step 18
-      completion:
+    completion:
       - internal
   - title: Step 19
     knowledge_quiz:
@@ -34,6 +34,6 @@ steps:
       version: 1
       questions: 3
       passing_score: 3
-  - title: Step 20
-      completion:
+    completion:
       - external
+  - title: Step 20
