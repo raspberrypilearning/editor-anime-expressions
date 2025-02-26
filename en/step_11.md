@@ -2,7 +2,7 @@
 
 --- task ---
 
-You can add more than one CSS class to a tag. Your CSS file has three classes called `primary`, `secondary` and `teriary`.
+You can add more than one CSS class to a tag. Your CSS file has three classes called `primary`, `secondary` and `tertiary`.
 
 The `primary` class sets a contrasting background and text colour for most of the main content. 
 
