@@ -4,7 +4,7 @@
 
 Amazing! You've added sections to your web page!
 
-Now add the subheading text `Facial expressions` between the `<h2>`{:.language-html} tags.
+Now add the subheading text `Facial expressions` between the `<h2>` tags.
 
 --- /task ---
 
@@ -35,7 +35,7 @@ line_highlights: 36
 
 ### Tip
 
-You can use different numbers for `<h>`{:.language-html} tags from 1 to 6. An `<h2>`{:.language-html}> makes a smaller heading than an `<h1>`{:.language-html} tag.
+You can use different numbers for `<h>` tags from 1 to 6. An `<h2>` makes a smaller heading than an `<h1>` tag.
 
 </div>
 
