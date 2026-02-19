@@ -2,9 +2,9 @@
 
 --- task ---
 
-Great work learning about more `<h>`{:.language-html} tags.
+Great work learning about more `<h>` tags.
 
-Underneath your `<h2>`{:.language-html} heading code, add the paragraph `<p>`{:.language-html} tags. Between the `<p>`{:.language-html} tags, add in some introductory text.
+Underneath your `<h2>` heading code, add the paragraph `<p>` tags. Between the `<p>` tags, add in some introductory text.
 
 --- /task ---
 
@@ -36,7 +36,7 @@ line_highlights: 37
 
 ### Tip
 
-In HTML, a "paragraph" tag `<p>`{:.language-html} is used to put sentences together, making your webpage look tidy and easy to read.
+In HTML, a "paragraph" tag `<p>` is used to put sentences together, making your webpage look tidy and easy to read.
 
 </div>
 

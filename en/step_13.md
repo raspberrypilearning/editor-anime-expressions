@@ -2,11 +2,11 @@
 
 --- task ---
 
-The `xcenter`{:.language-html} class in your CSS file aligns items horizontally across the page. 
+The `xcenter` class in your CSS file aligns items horizontally across the page. 
 
-Add `class="tertiary"`{:.language-html} to the **first** `<section>`{:.language-html} element.
+Add `class="tertiary"` to the **first** `<section>` element.
 
-Also, add `class="xcenter"`{:.language-html} to the `<p>`{:.language-html} in the same section.
+Also, add `class="xcenter"` to the `<p>` in the same section.
 
 --- /task ---
 

@@ -4,11 +4,11 @@
 
 Fantastic effort! You added an image to your web page.
 
-Add a paragraph of text in `<p></p>`{:.language-html} tags to describe how to draw the love anime facial expression. 
+Add a paragraph of text in `<p></p>` tags to describe how to draw the love anime facial expression. 
 
-You can copy the paragraph and paste it into your code: `<p>To make your anime character look like they are in love, replace the eyes with rounded hearts. You can add three more hearts inside for a fun effect.</p>`{:.language-html}
+You can copy the paragraph and paste it into your code: `<p>To make your anime character look like they are in love, replace the eyes with rounded hearts. You can add three more hearts inside for a fun effect.</p>`
 
-Add `<strong>`{:.language-html} tags around the word 'love'.
+Add `<strong>` tags around the word 'love'.
 
 --- /task ---
 
@@ -35,7 +35,7 @@ line_highlights: 43
 
 ### Tip
 
-The `<strong>`{:.language-html} tag makes a word look bold and important, making it stand out.
+The `<strong>` tag makes a word look bold and important, making it stand out.
 
 
 </div>

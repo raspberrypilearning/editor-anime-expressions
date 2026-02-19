@@ -4,7 +4,7 @@
 
 If you want to apply styling to specific elements, you can create a **class** in a CSS file. You can then add a `class=` **attribute** to an element in your HTML code to let the browser know what styling should be applied. 
 
-Back in your `index.html` file, add `class="border-bottom"`{:.language-html} in your `<header>`{:.language-html} tag.
+Back in your `index.html` file, add `class="border-bottom"` in your `<header>` tag.
 
 --- /task ---
 
@@ -32,7 +32,7 @@ line_highlights: 29
 
 ### Tip
 
-When you add add `class="border-bottom"`{:.language-html} in your `<header>`{:.language-html} tag, it adds a special border at the bottom of our header to make it look cool.
+When you add add `class="border-bottom"` in your `<header>` tag, it adds a special border at the bottom of our header to make it look cool.
 
 </div>
 

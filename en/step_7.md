@@ -4,11 +4,11 @@
 
 Amazing work so far! The next steps show you how to use CSS to change the colours, fonts, and layout on your web page.
 
-Unfold the `<head>`{:.language-html} section of your code so that you can view the code inside it.
+Unfold the `<head>` section of your code so that you can view the code inside it.
 
 ![The mouse clicks on the little triangle next to the line 3 number to collapse the head code.](images/step_2_collapse.gif)
 
-At the bottom of your `<head></head>`{:.language-html} section, remove the `<!--`{:.language-html} and `-->`{:.language-html} arrows from the start and end of both lines of link code:
+At the bottom of your `<head></head>` section, remove the `<!--` and `-->` arrows from the start and end of both lines of link code:
 
 --- /task ---
 
@@ -35,7 +35,7 @@ line_highlights: 23-24
 
 ### Tip
 
-To collapse the `<head>`{:.language-html} section after you have seen the change, click the arrow next to it. 
+To collapse the `<head>` section after you have seen the change, click the arrow next to it. 
 
 CSS is a style sheet language that defines the presentation of HTML documents, including layout, colours, fonts, and spacing.
 
