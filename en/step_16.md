@@ -4,9 +4,9 @@
 
 CSS can be used to make your web page appear different when viewed on different devices.
 
-Find the **second** `<section>`{:.language-html}. 
+Find the **second** `<section>`. 
 
-Add `class="wrap"`{:.language-html} to the `<section>`{:.language-html} tag.
+Add `class="wrap"` to the `<section>` tag.
 
 --- /task ---
 

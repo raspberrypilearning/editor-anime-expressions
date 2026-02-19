@@ -6,7 +6,7 @@ Well done! You added a heading to your web page.
 
 On your web page, the main content is broken down into **sections**.
 
-Add `<section></section>` {:.language-html} tags between the `<main>`{:.language-html} tags. 
+Add `<section></section>`  tags between the `<main>` tags. 
 
 --- /task ---
 

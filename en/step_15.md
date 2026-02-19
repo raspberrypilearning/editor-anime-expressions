@@ -2,7 +2,7 @@
 
 --- task ---
 
-Next add the `rounded`{:.language-html} class to the `<img>`{:.language-html}.
+Next add the `rounded` class to the `<img>`.
 
 --- /task ---
 

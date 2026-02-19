@@ -6,7 +6,7 @@ You've been amazing all through!
 
 There are two more images that you can use in your project; `happy.png` and `annoyed.png`.
 
-Use the other two images and add descriptions and styling to them, in `<section>`{:.language-html} tags, as you did with the `love.png` image.
+Use the other two images and add descriptions and styling to them, in `<section>` tags, as you did with the `love.png` image.
 
 --- /task ---
 

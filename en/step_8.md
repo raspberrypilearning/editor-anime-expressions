@@ -7,11 +7,11 @@ Click on the `Project files` icon in the Code Editor then select the `style.css`
 
 ![The Code Editor with the style.css file highlighted](images/select-style.png)
 
-**Find:** Scroll down and find the rule that controls the style of the `<h2>`{:.language-html}. 
+**Find:** Scroll down and find the rule that controls the style of the `<h2>`. 
 
-At the moment, the `<h2>`{:.language-html} heading is aligned to the left.
+At the moment, the `<h2>` heading is aligned to the left.
 
-Change the `text-align`{:.language-html} property of the `h2`{:.language-html} rule to `center`.
+Change the `text-align` property of the `h2` rule to `center`.
 
 --- /task ---
 

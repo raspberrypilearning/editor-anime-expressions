@@ -2,7 +2,7 @@
 
 --- task ---
 
-Add the `border-top`{:.language-html} class to your `footer`{:.language-html} code to apply a thick border to the top of your footer. 
+Add the `border-top` class to your `footer` code to apply a thick border to the top of your footer. 
 
 --- /task ---
 
