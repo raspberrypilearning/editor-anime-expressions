@@ -20,6 +20,8 @@ steps:
   - title: Step 8
   - title: Step 9
   - title: Step 10
+    completion:
+      - internal
   - title: Step 11
   - title: Step 12
   - title: Step 13
@@ -28,14 +30,6 @@ steps:
   - title: Step 16
   - title: Step 17
   - title: Step 18
-    completion:
-      - internal
-  - title: Step 19
-    knowledge_quiz:
-      path: quiz1
-      version: 1
-      questions: 3
-      passing_score: 3
   - title: Step 20
     completion:
       - external
