@@ -9,5 +9,5 @@ Add a new section that compares two expressions side-by-side.
 --- /task ---
 
 --- task ---
-Create a custom stylesheet by changing your CSS variables and updating background, heading, and accent colours in a new CSS file.
+Create a custom stylesheet by copying your current one into a **new** CSS file and updating background, heading, and accent colours.
 --- /task ---
