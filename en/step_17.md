@@ -1,10 +1,10 @@
-<h2 class="c-project-heading--task">Colours and fonts</h2>
+<h2 class="c-project-heading--task">Add more images</h2>
 
 --- task ---
 
-The starter project has different CSS files that you can use.
+There are two more images that you can use in your project; `happy.png` and `annoyed.png`.
 
-Go to `index.html` and change the CSS link code to link to the `vivid.css` file: 
+Use the other two images and add descriptions and styling to them, in `<section>` tags, as you did with the `love.png` image.
 
 --- /task ---
 
@@ -14,26 +14,16 @@ Go to `index.html` and change the CSS link code to link to the `vivid.css` file:
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 21
-line_highlights: 24
+line_number_start: 46
+line_highlights:
 ---   
-    <!-- Include CSS style file -->
+      <!-- The second drawing and instructions go here -->
 
-    <link href="style.css" rel="stylesheet" type="text/css" />
-    <link href="vivid.css" rel="stylesheet" type="text/css" />
+        
+        
+      <!-- The third drawing and instructions go here -->
 
 --- /code ---
 </div>
 
-
-<div class="c-project-callout c-project-callout--tip">
-
-### Tip
-
-Try out different styles for your web page. Look at the other CSS files, and choose the one that you like the best.
-
-</div>
-
 **Test:** Click the **Run** button. 
-
-![page restyled with colours and fonts](images/vivid_style.png)
