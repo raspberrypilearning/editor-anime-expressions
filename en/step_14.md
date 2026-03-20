@@ -2,7 +2,7 @@
 
 --- task ---
 
-Add the `dashed-border` class to the `<img>`. 
+Next add the `rounded` class to the `<img>`.
 
 --- /task ---
 
@@ -12,18 +12,17 @@ Add the `dashed-border` class to the `<img>`.
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 40
-line_highlights: 42
+line_number_start: 39
+line_highlights: 41
 ---
     <!-- The first drawing and instructions go here -->
     <section>
-      <img class="dashed-border" src="love.png" alt="The love facial expression.">
-      <p>To make your anime character look like they are in love, replace the eyes with two rounded hearts. You can add three more hearts inside for a fun effect.</p>
+      <img class="dashed-border rounded" src="love.png" alt="A line drawing of a smiling character with hearts for eyes.">
+      <p>To make your anime character look like they are in <strong>love</strong>, replace the eyes with two rounded hearts. You can add three more hearts inside for a fun effect.</p>
     </section>
 
 --- /code ---
 </div>
 
-**Test:** Click the **Run** button. 
 
-![images with a blue dashed-border](images/dashed-border.png)
+**Test:** Click the **Run** button. 

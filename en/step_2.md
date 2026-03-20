@@ -1,12 +1,12 @@
-<h2 class="c-project-heading--task">Add a section</h2>
+<h2 class="c-project-heading--task">Add a section and subheading</h2>
 
 --- task ---
 
-Well done! You added a heading to your web page.
-
 On your web page, the main content is broken down into **sections**.
 
-Add `<section></section>`  tags between the `<main>` tags. 
+Add `<section></section>` tags between the `<main>` tags.
+
+Inside the `<section>`, add the subheading text `Facial expressions` between `<h2>` tags.
 
 --- /task ---
 
@@ -24,12 +24,21 @@ line_highlights: 35-37
     <!-- The main content for the web page goes between the main tags -->
     <main>
       <section>
-
+        <h2>Facial expressions</h2>
       </section>
-        <!-- The first drawing and instructions go here -->  
+        <!-- The first drawing and instructions go here -->
 
 --- /code ---
 
 </div>
 
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+You can use different numbers for `<h>` tags from 1 to 6. An `<h2>` makes a smaller heading than an `<h1>` tag.
+
+</div>
+
+**Test:** Click the **Run** button.
 

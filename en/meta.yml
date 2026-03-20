@@ -19,9 +19,9 @@ steps:
   - title: Step 7
   - title: Step 8
   - title: Step 9
-  - title: Step 10
     completion:
       - internal
+  - title: Step 10
   - title: Step 11
   - title: Step 12
   - title: Step 13
@@ -30,6 +30,5 @@ steps:
   - title: Step 16
   - title: Step 17
   - title: Step 18
-  - title: Step 20
     completion:
       - external

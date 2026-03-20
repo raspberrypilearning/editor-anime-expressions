@@ -1,32 +1,34 @@
-<h2 class="c-project-heading--task">Style your page</h2>
+<h2 class="c-project-heading--task">Edit your style sheet</h2>
 
 --- task ---
 
-Amazing work so far! The next steps show you how to use CSS to change the colours, fonts, and layout on your web page.
+Click on the `Project files` icon in the Code Editor, then select the `style.css` file to open it in a new tab.
 
-Unfold the `<head>` section of your code so that you can view the code inside it.
+![The Code Editor with the style.css file highlighted](images/select-style.png)
 
-![The mouse clicks on the little triangle next to the line 3 number to collapse the head code.](images/step_2_collapse.gif)
+**Find:** Scroll down and find the rule that controls the style of the `<h2>`. 
 
-At the bottom of your `<head></head>` section, remove the `<!--` and `-->` arrows from the start and end of both lines of link code:
+At the moment, the `<h2>` heading is aligned to the left.
+
+Change the `text-align` property of the `h2` rule to `center`.
 
 --- /task ---
 
 <div class="c-project-code">
-
 --- code ---
 ---
-language: html
-filename: index.html
+language: css
+filename: style.css
 line_numbers: true
-line_number_start: 21
-line_highlights: 23-24
----   
-    <!-- Include CSS style file -->
+line_number_start: 109
+line_highlights: 111
+---  
 
-    <link href="style.css" rel="stylesheet" type="text/css" />
-    <link href="candy.css" rel="stylesheet" type="text/css" />
-  </head>
+h2 {
+  font: var(--title-font); /* Font style stored in the title-font variable */
+  text-align: center; /* Align the text */
+  padding: 1.5rem; /* Add some space all around the heading */
+}
 
 --- /code ---
 </div>
@@ -35,14 +37,8 @@ line_highlights: 23-24
 
 ### Tip
 
-To collapse the `<head>` section after you have seen the change, click the arrow next to it. 
-
-CSS is a style sheet language that defines the presentation of HTML documents, including layout, colours, fonts, and spacing.
+When you add CSS styling to an **element**, it applies that styling to every single element on the page that has the same tag. 
 
 </div>
 
-**Test:** Click the **Run** button.
-
-Now your page should look like this:
-
-![style changed for fonts and background](images/style_changed.png)
+**Test:** Click the **Run** button. 
