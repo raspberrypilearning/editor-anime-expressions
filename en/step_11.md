@@ -1,14 +1,14 @@
-<h2 class="c-project-heading--task">Use more classes</h2>
+<h2 class="c-project-heading--task">Add more styles</h2>
 
 --- task ---
 
-The `secondary` and `tertiary` classes set additional colour combinations that look good with the colours in the `primary` class.
+You can add more than one CSS class to a tag. Your CSS file has three classes called `primary`, `secondary` and `tertiary`.
 
-Add the `secondary` class to your `footer` code to apply a different colour background to your footer.
+The `primary` class sets a contrasting background and text colour for most of the main content. 
 
-Also, add the `secondary` class to `<header>`.
+Add `class="primary"` to `<main>`.
 
-Your line numbers might be slightly different if you added or removed blank lines while editing.
+The colours used by the `primary` class come from the theme variables in your CSS files. This step might not create a big visible change yet, because the `main` rule is already using the same colour pair.
 
 --- /task ---
 
@@ -18,37 +18,15 @@ Your line numbers might be slightly different if you added or removed blank line
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 28
-line_highlights: 29
+line_number_start: 33
+line_highlights: 34
 ---
-    <!-- The page header code goes here -->
-    <header class="border-bottom secondary">
+    <!-- The main content for the web page goes between the main tags -->
+    <main class="primary">
 
 --- /code ---
 </div>
 
-<div class="c-project-code">
---- code ---
----
-language: html
-filename: index.html
-line_numbers: true
-line_number_start: 54
-line_highlights: 55
----
-    <!-- Footer code goes here. -->
-    <footer class="border-top secondary">
-
---- /code ---
-</div>
-
-<div class="c-project-callout c-project-callout--tip">
-
-### Tip
-
-We use different styles for the header, main content, and footer to make each part look different and special.
-
-</div>
 
 
 **Test:** Click the **Run** button. 

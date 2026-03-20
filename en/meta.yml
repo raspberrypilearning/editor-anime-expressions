@@ -8,27 +8,29 @@ listed: false
 copyedit: false
 last_tested: "2022-05-19"
 steps:
-  - title: Step 1
+  - title: You will make
+  - title: Add a header
     completion:
       - engaged
-  - title: Step 2
-  - title: Step 3
-  - title: Step 4
-  - title: Step 5
-  - title: Step 6
-  - title: Step 7
-  - title: Step 8
-  - title: Step 9
+  - title: Add a section and subheading
+  - title: Add a paragraph
+  - title: Add a facial expression
+  - title: Add some descriptive text
+  - title: Style your page
+  - title: Edit your style sheet
+  - title: Style your header
+  - title: Style your footer
     completion:
       - internal
-  - title: Step 10
-  - title: Step 11
-  - title: Step 12
-  - title: Step 13
-  - title: Step 14
-  - title: Step 15
-  - title: Step 16
-  - title: Step 17
-  - title: Step 18
+  - title: Add more styles
+  - title: Use more classes
+  - title: Align your content
+  - title: Style your image
+  - title: Style your image
+  - title: Make it responsive
+  - title: Colours and fonts
+  - title: Add more images
     completion:
       - external
+  - title: Challenge
+    challenge: true

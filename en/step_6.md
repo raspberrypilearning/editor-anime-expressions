@@ -1,15 +1,13 @@
-<h2 class="c-project-heading--task">Style your page</h2>
+<h2 class="c-project-heading--task">Add some descriptive text</h2>
 
 --- task ---
+Add a paragraph of text in `<p></p>` tags to describe how to draw the love anime facial expression. 
+--- /task ---
 
-The next steps show you how to use CSS to change the colours, fonts, and layout on your web page.
+You can copy the paragraph and paste it into your code: `<p>To make your anime character look like they are in love, replace the eyes with rounded hearts. You can add three more hearts inside for a fun effect.</p>`
 
-Unfold the `<head>` section of your code so that you can view the code inside it.
-
-![The mouse clicks on the little triangle next to the line 3 number to collapse the head code.](images/step_2_collapse.gif)
-
-At the bottom of your `<head></head>` section, remove the `<!--` and `-->` arrows from the start and end of both lines of link code:
-
+--- task ---
+Add `<strong>` tags around the word 'love'.
 --- /task ---
 
 <div class="c-project-code">
@@ -19,14 +17,14 @@ At the bottom of your `<head></head>` section, remove the `<!--` and `-->` arrow
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 21
-line_highlights: 23-24
+line_number_start: 39
+line_highlights: 42
 ---   
-    <!-- Include CSS style file -->
-
-    <link href="style.css" rel="stylesheet" type="text/css" />
-    <link href="candy.css" rel="stylesheet" type="text/css" />
-  </head>
+      <!-- The first drawing and instructions go here -->     
+      <section>
+        <img src="love.png" alt="A line drawing of a smiling character with hearts for eyes.">
+        <p>To make your anime character look like they are in <strong>love</strong>, replace the eyes with two rounded hearts. You can add three more hearts inside for a fun effect.</p>
+      </section> 
 
 --- /code ---
 </div>
@@ -35,14 +33,8 @@ line_highlights: 23-24
 
 ### Tip
 
-To collapse the `<head>` section after you have seen the change, click the arrow next to it. 
-
-CSS is a style sheet language that defines the presentation of HTML documents, including layout, colours, fonts, and spacing.
+The `<strong>` tag makes a word look bold and important, making it stand out.
 
 </div>
 
-**Test:** Click the **Run** button.
-
-Now your page should look like this:
-
-![style changed for fonts and background](images/style_changed.png)
+**Test:** Click the **Run** button. 

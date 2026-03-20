@@ -1,12 +1,16 @@
-<h2 class="c-project-heading--task">Style your image</h2>
+<h2 class="c-project-heading--task">Align your content</h2>
 
 --- task ---
+Add `class="tertiary"` to the **first** `<section>` element.
+--- /task ---
 
-Add the `dashed-border` class to the `<img>`. 
+The `xcenter` class in your CSS file aligns items horizontally across the page. 
+
+--- task ---
+Also, add `class="xcenter"` to the `<p>` in the same section.
+--- /task ---
 
 Your line numbers might be slightly different from the example.
-
---- /task ---
 
 <div class="c-project-code">
 --- code ---
@@ -14,18 +18,19 @@ Your line numbers might be slightly different from the example.
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 39
-line_highlights: 41
+line_number_start: 33
+line_highlights: 35, 37
 ---
-    <!-- The first drawing and instructions go here -->
-    <section>
-      <img class="dashed-border" src="love.png" alt="A line drawing of a smiling character with hearts for eyes.">
-      <p>To make your anime character look like they are in <strong>love</strong>, replace the eyes with two rounded hearts. You can add three more hearts inside for a fun effect.</p>
-    </section>
+    <!-- The main content for the web page goes between the main tags -->
+    <main class="primary">
+      <section class="tertiary">
+        <h2>Facial expressions</h2>
+        <p class="xcenter">Take a look at these facial expressions and try them in your own drawings.</p>
+      </section>
 
 --- /code ---
 </div>
 
-**Test:** Click the **Run** button. 
 
-![images with a blue dashed-border](images/dashed-border.png)
+
+**Test:** Click the **Run** button. 

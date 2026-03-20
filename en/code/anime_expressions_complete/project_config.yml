@@ -1,0 +1,4 @@
+name: 'Anime expressions complete'
+identifier: 'editor-anime-expressions-complete'
+type: 'html'
+build: true

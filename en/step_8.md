@@ -1,38 +1,49 @@
-<h2 class="c-project-heading--task">Style your header</h2>
+<h2 class="c-project-heading--task">Edit your style sheet</h2>
 
 --- task ---
+Click on the `Project files` icon in the Code Editor.
 
-If you want to apply styling to specific elements, you can create a **class** in a CSS file. You can then add a `class=` **attribute** to an element in your HTML code to let the browser know what styling should be applied. 
+![The Code Editor with the style.css file highlighted](images/select-style.png)
+--- /task ---
 
-Back in your `index.html` file, add `class="border-bottom"` in your `<header>` tag.
+--- task ---
+Select the `style.css` file to open it in a new tab.
+--- /task ---
 
+--- task ---
+**Find:** Scroll down and find the rule that controls the style of the `<h2>`. 
+--- /task ---
+
+At the moment, the `<h2>` heading is aligned to the left.
+
+--- task ---
+Change the `text-align` property of the `h2` rule to `center`.
 --- /task ---
 
 <div class="c-project-code">
 --- code ---
 ---
-language: html
-filename: index.html
+language: css
+filename: style.css
 line_numbers: true
-line_number_start: 27
-line_highlights: 29
----
-  <body>
-    <!-- The page header code goes here -->
-    <header class="border-bottom">
-      <h1>Draw anime with me</h1>
-    </header>
+line_number_start: 109
+line_highlights: 111
+---  
+
+h2 {
+  font: var(--title-font); /* Font style stored in the title-font variable */
+  text-align: center; /* Align the text */
+  padding: 1.5rem; /* Add some space all around the heading */
+}
 
 --- /code ---
 </div>
-
-
 
 <div class="c-project-callout c-project-callout--tip">
 
 ### Tip
 
-When you add `class="border-bottom"` in your `<header>` tag, it adds a special border at the bottom of your header.
+When you add CSS styling to an **element**, it applies that styling to every single element on the page that has the same tag. 
 
 </div>
 

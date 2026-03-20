@@ -1,30 +1,32 @@
-<h2 class="c-project-heading--task">Add a paragraph</h2>
+<h2 class="c-project-heading--task">Add a section and subheading</h2>
 
 --- task ---
+Add `<section></section>` tags between the `<main>` tags.
+--- /task ---
 
-Underneath your `<h2>` heading code, add the paragraph `<p>` tags. Between the `<p>` tags, add in some introductory text.
+On your web page, the main content is broken down into **sections**.
 
+--- task ---
+Inside the `<section>`, add the subheading text `Facial expressions` between `<h2>` tags.
 --- /task ---
 
 Your code should look like this:
 
 <div class="c-project-code">
-
 --- code ---
 ---
 language: html
 filename: index.html
 line_numbers: true
 line_number_start: 33
-line_highlights: 37
+line_highlights: 35-37
 ---
     <!-- The main content for the web page goes between the main tags -->
     <main>
       <section>
         <h2>Facial expressions</h2>
-        <p>Take a look at these facial expressions and try them in your own drawings.</p>
       </section>
-        <!-- The first drawing and instructions go here --> 
+        <!-- The first drawing and instructions go here -->
 
 --- /code ---
 
@@ -34,11 +36,8 @@ line_highlights: 37
 
 ### Tip
 
-Use `<p>` tags for blocks of text such as introductions, descriptions, or instructions.
+You can use different numbers for `<h>` tags from 1 to 6. An `<h2>` makes a smaller heading than an `<h1>` tag.
 
 </div>
 
 **Test:** Click the **Run** button.
-
-Your page should look like this:
-![text only page containing the header and paragraph text](images/text_only_page.png)
