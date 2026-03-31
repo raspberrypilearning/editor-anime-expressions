@@ -1,6 +1,6 @@
 <h2 class="c-project-heading--task">Use more classes</h2>
 
---- task ---
+### Step 1
 
 The `secondary` and `tertiary` classes set additional colour combinations that look good with the colours in the `primary` class.
 
@@ -10,7 +10,6 @@ Also, add the `secondary` class to `<header>`.
 
 Your line numbers might be slightly different if you added or removed blank lines while editing.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---

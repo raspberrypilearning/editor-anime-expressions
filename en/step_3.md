@@ -1,10 +1,9 @@
 <h2 class="c-project-heading--task">Add a paragraph</h2>
 
---- task ---
+### Step 1
 
 Underneath your `<h2>` heading code, add the paragraph `<p>` tags. Between the `<p>` tags, add in some introductory text.
 
---- /task ---
 
 Your code should look like this:
 

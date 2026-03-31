@@ -1,10 +1,9 @@
 <h2 class="c-project-heading--task">Style your image</h2>
 
---- task ---
+### Step 1
 
 Next add the `rounded` class to the `<img>`.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---

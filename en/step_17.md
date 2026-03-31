@@ -1,12 +1,11 @@
 <h2 class="c-project-heading--task">Add more images</h2>
 
---- task ---
+### Step 1
 
 There are two more images that you can use in your project; `happy.png` and `annoyed.png`.
 
 Use the other two images and add descriptions and styling to them, in `<section>` tags, as you did with the `love.png` image.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---

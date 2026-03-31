@@ -1,6 +1,6 @@
 <h2 class="c-project-heading--task">Align your content</h2>
 
---- task ---
+### Step 1
 
 The `xcenter` class in your CSS file aligns items horizontally across the page. 
 
@@ -10,7 +10,6 @@ Also, add `class="xcenter"` to the `<p>` in the same section.
 
 Your line numbers might be slightly different from the example.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---

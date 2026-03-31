@@ -1,6 +1,6 @@
 <h2 class="c-project-heading--task">Style your page</h2>
 
---- task ---
+### Step 1
 
 The next steps show you how to use CSS to change the colours, fonts, and layout on your web page.
 
@@ -10,7 +10,6 @@ Unfold the `<head>` section of your code so that you can view the code inside it
 
 At the bottom of your `<head></head>` section, remove the `<!--` and `-->` arrows from the start and end of both lines of link code:
 
---- /task ---
 
 <div class="c-project-code">
 

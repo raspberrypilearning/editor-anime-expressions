@@ -1,6 +1,6 @@
 <h2 class="c-project-heading--task">Edit your style sheet</h2>
 
---- task ---
+### Step 1
 
 Click on the `Project files` icon in the Code Editor, then select the `style.css` file to open it in a new tab.
 
@@ -12,7 +12,6 @@ At the moment, the `<h2>` heading is aligned to the left.
 
 Change the `text-align` property of the `h2` rule to `center`.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---

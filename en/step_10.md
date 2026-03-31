@@ -1,6 +1,6 @@
 <h2 class="c-project-heading--task">Add more styles</h2>
 
---- task ---
+### Step 1
 
 You can add more than one CSS class to a tag. Your CSS file has three classes called `primary`, `secondary` and `tertiary`.
 
@@ -10,7 +10,6 @@ Add `class="primary"` to `<main>`.
 
 The colours used by the `primary` class come from the theme variables in your CSS files. This step might not create a big visible change yet, because the `main` rule is already using the same colour pair.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---

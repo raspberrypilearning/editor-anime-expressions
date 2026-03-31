@@ -1,6 +1,6 @@
 <h2 class="c-project-heading--task">Add a header</h2>
 
---- task ---
+### Step 1
 
 The starter project to the right has some code already written for you.
 
@@ -12,7 +12,6 @@ Add in an `<h1>` tag with some text to add a header to your webpage.
 
 The `<h1>` tag is used to define the main heading of your webpage. It's like the title of a book.
 
---- /task ---
 
 Your code should look like this:
 
