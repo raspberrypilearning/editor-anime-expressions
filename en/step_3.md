@@ -1,14 +1,9 @@
 <h2 class="c-project-heading--task">Add a section and subheading</h2>
 
---- task ---
-Add `<section></section>` tags between the `<main>` tags.
---- /task ---
+### Step 1
 
 On your web page, the main content is broken down into **sections**.
 
---- task ---
-Inside the `<section>`, add the subheading text `Facial expressions` between `<h2>` tags.
---- /task ---
 
 Your code should look like this:
 

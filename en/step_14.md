@@ -1,12 +1,11 @@
 <h2 class="c-project-heading--task">Style your image</h2>
 
---- task ---
+### Step 1
 
 Add the `dashed-border` class to the `<img>`. 
 
 Your line numbers might be slightly different from the example.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---

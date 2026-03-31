@@ -1,20 +1,14 @@
 <h2 class="c-project-heading--task">Add a facial expression</h2>
 
---- task ---
-If you need to check the image filename, click the `Project files` icon to open the file list.
+### Step 1
 
 ![The Project files icon and file list in the Code Editor.](images/select-file.png)
---- /task ---
+
 
 Your starter project contains images to use in this project. `love.png` is one of the images.
 
---- task ---
+### Step 2
 Add a new `<section>` tag for your first facial expression.
---- /task ---
-
---- task ---
-Inside your new section, add an `<img>` tag to display an image on your webpage. The `src` **attribute** gives the name of the image.
---- /task ---
 
 The `<img>` tag doesn't have an end tag.
  

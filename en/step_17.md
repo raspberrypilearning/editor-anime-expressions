@@ -1,16 +1,11 @@
 <h2 class="c-project-heading--task">Colours and fonts</h2>
 
---- task ---
-The starter project has different CSS files that you can use.
---- /task ---
+### Step 1
 
 --- task ---
 Go to `index.html`.
 --- /task ---
 
---- task ---
-Change the CSS link code to link to the `vivid.css` file:
---- /task ---
 
 <div class="c-project-code">
 --- code ---

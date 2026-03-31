@@ -7,12 +7,12 @@ version: 4
 listed: false
 copyedit: false
 last_tested: "2022-05-19"
+landing: true
 steps:
-  - title: You will make
   - title: Add a header
+  - title: Add a section and subheading
     completion:
       - engaged
-  - title: Add a section and subheading
   - title: Add a paragraph
   - title: Add a facial expression
   - title: Add some descriptive text

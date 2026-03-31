@@ -1,14 +1,9 @@
 <h2 class="c-project-heading--task">Align your content</h2>
 
---- task ---
-Add `class="tertiary"` to the **first** `<section>` element.
---- /task ---
+### Step 1
 
 The `xcenter` class in your CSS file aligns items horizontally across the page. 
 
---- task ---
-Also, add `class="xcenter"` to the `<p>` in the same section.
---- /task ---
 
 Your line numbers might be slightly different from the example.
 

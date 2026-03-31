@@ -1,8 +1,6 @@
 <h2 class="c-project-heading--task">Use more classes</h2>
 
---- task ---
-Add the `secondary` class to your `footer` code to apply a different colour background to your footer.
---- /task ---
+### Step 1
 
 The `secondary` and `tertiary` classes set additional colour combinations that look good with the colours in the `primary` class.
 
@@ -24,8 +22,6 @@ line_highlights: 29
     <!-- The page header code goes here -->
     <header class="border-bottom secondary">
 
---- /code ---
-</div>
 
 <div class="c-project-code">
 --- code ---

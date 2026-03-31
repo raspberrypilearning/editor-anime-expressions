@@ -1,14 +1,9 @@
 <h2 class="c-project-heading--task">Add some descriptive text</h2>
 
---- task ---
-Add a paragraph of text in `<p></p>` tags to describe how to draw the love anime facial expression. 
---- /task ---
+### Step 1
 
 You can copy the paragraph and paste it into your code: `<p>To make your anime character look like they are in love, replace the eyes with rounded hearts. You can add three more hearts inside for a fun effect.</p>`
 
---- task ---
-Add `<strong>` tags around the word 'love'.
---- /task ---
 
 <div class="c-project-code">
 

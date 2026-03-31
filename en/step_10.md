@@ -1,10 +1,9 @@
 <h2 class="c-project-heading--task">Style your footer</h2>
 
---- task ---
+### Step 1
 
 Add the `border-top` class to your `footer` code to apply a thick border to the top of your footer. 
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---

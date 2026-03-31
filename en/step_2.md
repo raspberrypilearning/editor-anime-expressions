@@ -11,12 +11,11 @@ Click on the small triangle next to line 3 to collapse the `<head>`.
 
 --- /task ---
 
---- task ---
+### Step 1
 
 Add in an `<h1>` tag with some text to add a header to your webpage.
 
 
---- /task ---
 
 <div class="c-project-callout c-project-callout--tip">
 

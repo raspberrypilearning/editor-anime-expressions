@@ -1,16 +1,12 @@
 <h2 class="c-project-heading--task">Style your page</h2>
 
---- task ---
-Unfold the `<head>` section of your code so that you can view the code inside it.
+### Step 1
 
 ![The mouse clicks on the little triangle next to the line 3 number to collapse the head code.](images/step_2_collapse.gif)
 --- /task ---
 
 The next steps show you how to use CSS to change the colours, fonts, and layout on your web page.
 
---- task ---
-At the bottom of your `<head></head>` section, remove the `<!--` and `-->` arrows from the start and end of both lines of link code:
---- /task ---
 
 <div class="c-project-code">
 
