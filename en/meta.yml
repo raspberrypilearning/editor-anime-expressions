@@ -32,5 +32,5 @@ steps:
   - title: Add more images
     completion:
       - external
-  - title: Challenge!
+  - title: Challenge
     challenge: true

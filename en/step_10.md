@@ -1,14 +1,8 @@
-<h2 class="c-project-heading--task">Add more styles</h2>
+<h2 class="c-project-heading--task">Style your footer</h2>
 
 ### Step 1
 
-You can add more than one CSS class to a tag. Your CSS file has three classes called `primary`, `secondary` and `tertiary`.
-
-The `primary` class sets a contrasting background and text colour for most of the main content. 
-
-Add `class="primary"` to `<main>`.
-
-The colours used by the `primary` class come from the theme variables in your CSS files. This step might not create a big visible change yet, because the `main` rule is already using the same colour pair.
+Add the `border-top` class to your `footer` code to apply a thick border to the top of your footer. 
 
 
 <div class="c-project-code">
@@ -17,15 +11,20 @@ The colours used by the `primary` class come from the theme variables in your CS
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 33
-line_highlights: 34
+line_number_start: 54
+line_highlights: 55
 ---
-    <!-- The main content for the web page goes between the main tags -->
-    <main class="primary">
+    <!-- Footer code goes here. -->
+    <footer class="border-top">
+
+    </footer>
 
 --- /code ---
 </div>
 
 
-
 **Test:** Click the **Run** button. 
+
+You should see a border in the footer of your page
+
+![a blue border on the footer](images/footer-border.png)
