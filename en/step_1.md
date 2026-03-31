@@ -1,25 +1,56 @@
-<h2 class="c-project-heading--task">You will make</h2>
+<h2 class="c-project-heading--task">Add a header</h2>
 
-### Step 1
+
 
 The starter project to the right has some code already written for you.
 
+--- task ---
 Click on the small triangle next to line 3 to collapse the `<head>`.
 
 ![alt=""](images/step_2_collapse.gif)
 
+--- /task ---
+
+### Step 1
+
 Add in an `<h1>` tag with some text to add a header to your webpage.
+
+
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
 
 The `<h1>` tag is used to define the main heading of your webpage. It's like the title of a book.
 
-
-<div class="c-project-output">
-  <iframe src="https://editor.raspberrypi.org/en/embed/viewer/editor-anime-expressions-complete" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-  </iframe>
 </div>
 
-<div class="c-project-callout c-project-callout--tip" style="font-size: 1.1em">
-  <strong>Tip:</strong> Click <strong>Run</strong> in the example to explore the finished page and look closely at the different expression images and styles.
+Your code should look like this:
+
+<div class="c-project-code">
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 27
+line_highlights: 30
+---
+  <body>
+    <!-- The page header code goes here -->
+    <header>
+      <h1>Draw anime with me</h1>
+    </header>
+--- /code ---
 </div>
 
-**Test:** Click the **Run** button. 
+
+<div class="c-project-callout c-project-callout--tip">
+
+### Tip
+
+When you open a tag like `<h1>`, the code editor will automatically add a closing tag `</h1>` for you.
+
+</div>
+
+**Test:** Click the **Run** button.

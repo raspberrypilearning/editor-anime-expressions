@@ -1,8 +1,11 @@
-<h2 class="c-project-heading--task">Add some descriptive text</h2>
+<h2 class="c-project-heading--task">Style your page</h2>
 
 ### Step 1
 
-You can copy the paragraph and paste it into your code: `<p>To make your anime character look like they are in love, replace the eyes with rounded hearts. You can add three more hearts inside for a fun effect.</p>`
+![The mouse clicks on the little triangle next to the line 3 number to collapse the head code.](images/step_2_collapse.gif)
+--- /task ---
+
+The next steps show you how to use CSS to change the colours, fonts, and layout on your web page.
 
 
 <div class="c-project-code">
@@ -12,14 +15,14 @@ You can copy the paragraph and paste it into your code: `<p>To make your anime c
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 39
-line_highlights: 42
+line_number_start: 21
+line_highlights: 23-24
 ---   
-      <!-- The first drawing and instructions go here -->     
-      <section>
-        <img src="love.png" alt="A line drawing of a smiling character with hearts for eyes.">
-        <p>To make your anime character look like they are in <strong>love</strong>, replace the eyes with two rounded hearts. You can add three more hearts inside for a fun effect.</p>
-      </section> 
+    <!-- Include CSS style file -->
+
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link href="candy.css" rel="stylesheet" type="text/css" />
+  </head>
 
 --- /code ---
 </div>
@@ -28,8 +31,14 @@ line_highlights: 42
 
 ### Tip
 
-The `<strong>` tag makes a word look bold and important, making it stand out.
+To collapse the `<head>` section after you have seen the change, click the arrow next to it. 
+
+CSS is a style sheet language that defines the presentation of HTML documents, including layout, colours, fonts, and spacing.
 
 </div>
 
-**Test:** Click the **Run** button. 
+**Test:** Click the **Run** button.
+
+Now your page should look like this:
+
+![style changed for fonts and background](images/style_changed.png)
