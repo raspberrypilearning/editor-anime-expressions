@@ -1,13 +1,16 @@
-<h2 class="c-project-heading--task">Add a paragraph</h2>
+<h2 class="c-project-heading--task">Add a facial expression</h2>
 
 ### Step 1
 
-Underneath your `<h2>` heading code, add the paragraph `<p>` tags. Between the `<p>` tags, add in some introductory text.
+![The Project files icon and file list in the Code Editor.](images/select-file.png)
 
---- /task ---
 
-Your code should look like this:
+Your starter project contains images to use in this project. `love.png` is one of the images.
 
+### Step 2
+Add a new `<section>` tag for your first facial expression.
+
+The `<img>` tag doesn't have an end tag.
  
  <div class="c-project-code">
 
@@ -16,30 +19,30 @@ Your code should look like this:
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 33
-line_highlights: 37
----
-    <!-- The main content for the web page goes between the main tags -->
-    <main>
+line_number_start: 39
+line_highlights: 40-42
+---   
+      <!-- The first drawing and instructions go here -->     
       <section>
-        <h2>Facial expressions</h2>
-        <p>Take a look at these facial expressions and try them in your own drawings.</p>
-      </section>
-        <!-- The first drawing and instructions go here --> 
+        <img src="love.png" alt="A line drawing of a smiling character with hearts for eyes.">
+      </section> 
 
 --- /code ---
 
 </div>
 
+
+
 <div class="c-project-callout c-project-callout--tip">
 
 ### Tip
 
-Use `<p>` tags for blocks of text such as introductions, descriptions, or instructions.
+**Alternative (Alt) text** is a description of an image and is important in accessible web design to describe images to people who are unable to see them. The text does not appear on the web page but it is read aloud by screen readers.
 
 </div>
 
-**Test:** Click the **Run** button.
+**Test:** Click the **Run** button. 
 
-Your page should look like this:
-![text only page containing the header and paragraph text](images/text_only_page.png)
+Your page should now have an image.
+
+![page with headings and an image of an anime character](images/page_with_image.png)

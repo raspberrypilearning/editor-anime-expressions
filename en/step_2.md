@@ -1,29 +1,9 @@
-<h2 class="c-project-heading--task">Add a header</h2>
-
-
-
-The starter project to the right has some code already written for you.
-
---- task ---
-Click on the small triangle next to line 3 to collapse the `<head>`.
-
-![alt=""](images/step_2_collapse.gif)
-
---- /task ---
+<h2 class="c-project-heading--task">Add a section and subheading</h2>
 
 ### Step 1
 
-Add in an `<h1>` tag with some text to add a header to your webpage.
+On your web page, the main content is broken down into **sections**.
 
-
-
-<div class="c-project-callout c-project-callout--tip">
-
-### Tip
-
-The `<h1>` tag is used to define the main heading of your webpage. It's like the title of a book.
-
-</div>
 
 Your code should look like this:
 
@@ -33,23 +13,25 @@ Your code should look like this:
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 27
-line_highlights: 30
+line_number_start: 33
+line_highlights: 35-37
 ---
-  <body>
-    <!-- The page header code goes here -->
-    <header>
-      <h1>Draw anime with me</h1>
-    </header>
---- /code ---
-</div>
+    <!-- The main content for the web page goes between the main tags -->
+    <main>
+      <section>
+        <h2>Facial expressions</h2>
+      </section>
+        <!-- The first drawing and instructions go here -->
 
+--- /code ---
+
+</div>
 
 <div class="c-project-callout c-project-callout--tip">
 
 ### Tip
 
-When you open a tag like `<h1>`, the code editor will automatically add a closing tag `</h1>` for you.
+You can use different numbers for `<h>` tags from 1 to 6. An `<h2>` makes a smaller heading than an `<h1>` tag.
 
 </div>
 

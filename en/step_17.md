@@ -1,38 +1,10 @@
-<h2 class="c-project-heading--task">Colours and fonts</h2>
+<h2 class="c-project-heading--task">Add more images</h2>
 
 ### Step 1
+Improve accessibility by updating the `alt` text so each expression is more clearly described.
 
---- task ---
-Go to `index.html`.
---- /task ---
+### Step 2
+Add a new section that compares two expressions side-by-side.
 
-
-<div class="c-project-code">
---- code ---
----
-language: html
-filename: index.html
-line_numbers: true
-line_number_start: 21
-line_highlights: 24
----   
-    <!-- Include CSS style file -->
-
-    <link href="style.css" rel="stylesheet" type="text/css" />
-    <link href="vivid.css" rel="stylesheet" type="text/css" />
-
---- /code ---
-</div>
-
-
-<div class="c-project-callout c-project-callout--tip">
-
-### Tip
-
-Try out different styles for your web page. Look at the other CSS files, and choose the one that you like the best.
-
-</div>
-
-**Test:** Click the **Run** button. 
-
-![page restyled with colours and fonts](images/vivid_style.png)
+### Step 3
+Create a custom stylesheet by copying your current one into a **new** CSS file and updating background, heading, and accent colours.
