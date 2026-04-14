@@ -4,8 +4,4 @@ Create and style an anime drawing tutorial webpage with headings, images, colour
 
 Read through the finished page to explore the tutorial content and see how the layout, styling, and images work together on different screen sizes.
 
-<div class="c-project-output">
-
-![Finished anime expressions webpage](images/solution.PNG)
-
-</div>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/editor-anime-expressions-complete" width="400" height="710" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
