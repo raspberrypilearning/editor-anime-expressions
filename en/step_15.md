@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Make it responsive</h2>
 
-### Step 1
-
 CSS can be used to make your web page appear different when viewed on different devices.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 <div class="c-project-code">
 --- code ---
@@ -23,16 +22,22 @@ line_highlights: 40
 --- /code ---
 </div>
 
-**Test:** Click the **Run** button. Adjust the size of the output window to see responsiveness of your page.
+## Now run your code
 
-<div class="c-project-callout c-project-callout--tip">
+Click the **Run** button. Adjust the size of the output window to see responsiveness of your page.
 
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 Try out different styles for your web page. Look at the other CSS files, and choose the one that you like the best.
 
 </div>
 
-**Test:** Click the **Run** button. 
+Click the **Run** button.
 
+<div class="c-project-output">
 ![page restyled with colours and fonts](images/vivid_style.png)
+</div>
+
+Confirm the observable result.

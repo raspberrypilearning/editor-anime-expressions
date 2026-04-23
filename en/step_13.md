@@ -1,8 +1,8 @@
 <h2 class="c-project-heading--task">Style your image</h2>
 
-### Step 1
+Add the `dashed-border` class to the `<img>`.
 
-Add the `dashed-border` class to the `<img>`. 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 Your line numbers might be slightly different from the example.
 
@@ -25,6 +25,12 @@ line_highlights: 41
 --- /code ---
 </div>
 
-**Test:** Click the **Run** button. 
+## Now run your code
 
+Click the **Run** button.
+
+<div class="c-project-output">
 ![images with a blue dashed-border](images/dashed-border.png)
+</div>
+
+Confirm the observable result.

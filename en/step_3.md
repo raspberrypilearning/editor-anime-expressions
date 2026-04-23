@@ -1,10 +1,11 @@
 <h2 class="c-project-heading--task">Add a paragraph</h2>
 
-### Step 1
+Underneath your `<h2>` heading code, add the paragraph `<p>` tags.
 
-Underneath your `<h2>` heading code, add the paragraph `<p>` tags. Between the `<p>` tags, add in some introductory text.
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
---- /task ---
+Between the `<p>` tags, add in some introductory text.
+
 
 Your code should look like this:
 
@@ -31,15 +32,21 @@ line_highlights: 37
 
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 Use `<p>` tags for blocks of text such as introductions, descriptions, or instructions.
 
 </div>
 
-**Test:** Click the **Run** button.
+## Now run your code
+
+Click the **Run** button.
 
 Your page should look like this:
+<div class="c-project-output">
 ![text only page containing the header and paragraph text](images/text_only_page.png)
+</div>
+
+Confirm the observable result.
