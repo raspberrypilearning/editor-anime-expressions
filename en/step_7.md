@@ -41,6 +41,4 @@ When you add CSS styling to an **element**, it applies that styling to every sin
 
 ## Now run your code
 
-Click the **Run** button.
-
-Confirm the observable result.
+Click the **Run** button and check that the `Facial expressions` heading is centred.

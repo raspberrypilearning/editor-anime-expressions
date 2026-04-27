@@ -39,6 +39,4 @@ When you add `class="border-bottom"` in your `<header>` tag, it adds a special b
 
 ## Now run your code
 
-Click the **Run** button.
-
-Confirm the observable result.
+Click the **Run** button and check that the header now has a border along the bottom.

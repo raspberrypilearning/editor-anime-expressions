@@ -45,12 +45,10 @@ line_highlights: 40-42
 
 ## Now run your code
 
-Click the **Run** button.
-
 Your page should now have an image.
 
 <div class="c-project-output">
 ![page with headings and an image of an anime character](images/page_with_image.png)
 </div>
 
-Confirm the observable result.
+Click the **Run** button and check that an anime expression image appears on the page.

@@ -23,12 +23,10 @@ line_highlights: 55
 
 ## Now run your code
 
-Click the **Run** button.
-
 You should see a border in the footer of your page
 
 <div class="c-project-output">
 ![a blue border on the footer](images/footer-border.png)
 </div>
 
-Confirm the observable result.
+Click the **Run** button and check that the footer now has a border.

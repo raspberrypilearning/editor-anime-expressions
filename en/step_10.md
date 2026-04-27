@@ -30,6 +30,4 @@ line_highlights: 34
 
 ## Now run your code
 
-Click the **Run** button.
-
-Confirm the observable result.
+Click the **Run** button and check that the page still opens normally and uses the same main colours as before.

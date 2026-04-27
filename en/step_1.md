@@ -52,6 +52,4 @@ When you open a tag like `<h1>`, the code editor will automatically add a closin
 
 ## Now run your code
 
-Click the **Run** button.
-
-Confirm the observable result.
+Click the **Run** button and check that the page shows the `Draw anime with me` heading.

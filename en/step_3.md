@@ -42,11 +42,9 @@ Use `<p>` tags for blocks of text such as introductions, descriptions, or instru
 
 ## Now run your code
 
-Click the **Run** button.
-
 Your page should look like this:
 <div class="c-project-output">
 ![text only page containing the header and paragraph text](images/text_only_page.png)
 </div>
 
-Confirm the observable result.
+Click the **Run** button and check that the page now shows the heading and the introduction paragraph.

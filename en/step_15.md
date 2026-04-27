@@ -34,10 +34,8 @@ Try out different styles for your web page. Look at the other CSS files, and cho
 
 </div>
 
-Click the **Run** button.
-
 <div class="c-project-output">
 ![page restyled with colours and fonts](images/vivid_style.png)
 </div>
 
-Confirm the observable result.
+Click the **Run** button and check that the page layout adjusts to fit when you make the output window wider or narrower.

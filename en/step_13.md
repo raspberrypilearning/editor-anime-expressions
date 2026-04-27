@@ -27,10 +27,8 @@ line_highlights: 41
 
 ## Now run your code
 
-Click the **Run** button.
-
 <div class="c-project-output">
 ![images with a blue dashed-border](images/dashed-border.png)
 </div>
 
-Confirm the observable result.
+Click the **Run** button and check that the image now has a blue dashed border.

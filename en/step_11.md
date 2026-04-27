@@ -46,6 +46,4 @@ We use different styles for the header, main content, and footer to make each pa
 
 ## Now run your code
 
-Click the **Run** button.
-
-Confirm the observable result.
+Click the **Run** button and check that the header and footer now use the `secondary` colour style.

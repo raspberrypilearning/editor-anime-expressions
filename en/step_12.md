@@ -27,6 +27,4 @@ line_highlights: 35, 37
 
 ## Now run your code
 
-Click the **Run** button.
-
-Confirm the observable result.
+Click the **Run** button and check that the introduction paragraph is centred.

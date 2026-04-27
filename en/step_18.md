@@ -11,4 +11,4 @@ Create a custom stylesheet by copying your current one into a **new** CSS file a
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that your new comparison section appears and your custom stylesheet changes the page colours.

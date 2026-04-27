@@ -32,10 +32,8 @@ Try out different styles for your web page. Look at the other CSS files, and cho
 
 ## Now run your code
 
-Click the **Run** button.
-
 <div class="c-project-output">
 ![page restyled with colours and fonts](images/vivid_style.png)
 </div>
 
-Confirm the observable result.
+Click the **Run** button and check that the page is restyled with the colours and fonts from the new CSS file.

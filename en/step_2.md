@@ -36,6 +36,4 @@ You can use different numbers for `<h>` tags from 1 to 6. An `<h2>` makes a smal
 
 ## Now run your code
 
-Click the **Run** button.
-
-Confirm the observable result.
+Click the **Run** button and check that the `Facial expressions` subheading appears under the main heading.

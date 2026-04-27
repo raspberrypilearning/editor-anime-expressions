@@ -38,12 +38,10 @@ CSS is a style sheet language that defines the presentation of HTML documents, i
 
 ## Now run your code
 
-Click the **Run** button.
-
 Now your page should look like this:
 
 <div class="c-project-output">
 ![style changed for fonts and background](images/style_changed.png)
 </div>
 
-Confirm the observable result.
+Click the **Run** button and check that the page now uses the new background colours and fonts.

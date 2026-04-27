@@ -35,6 +35,4 @@ The `<strong>` tag makes a word look bold and important, making it stand out.
 
 ## Now run your code
 
-Click the **Run** button.
-
-Confirm the observable result.
+Click the **Run** button and check that the first expression image and its instructions appear together.
