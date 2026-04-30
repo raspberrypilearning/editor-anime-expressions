@@ -1,17 +1,13 @@
 <h2 class="c-project-heading--task">Edit your style sheet</h2>
 
-### Step 1
-
 ![The Code Editor with the style.css file highlighted](images/select-style.png)
---- /task ---
 
---- task ---
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
 Select the `style.css` file to open it in a new tab.
---- /task ---
 
---- task ---
+
 **Find:** Scroll down and find the rule that controls the style of the `<h2>`. 
---- /task ---
 
 At the moment, the `<h2>` heading is aligned to the left.
 
@@ -35,12 +31,14 @@ h2 {
 --- /code ---
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 When you add CSS styling to an **element**, it applies that styling to every single element on the page that has the same tag. 
 
 </div>
 
-**Test:** Click the **Run** button. 
+## Now run your code
+
+Click the **Run** button and check that the `Facial expressions` heading is centred.

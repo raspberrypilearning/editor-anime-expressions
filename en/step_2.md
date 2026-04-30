@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Add a section and subheading</h2>
 
-### Step 1
-
 On your web page, the main content is broken down into **sections**.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 Your code should look like this:
 
@@ -27,12 +26,14 @@ line_highlights: 35-37
 
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 You can use different numbers for `<h>` tags from 1 to 6. An `<h2>` makes a smaller heading than an `<h1>` tag.
 
 </div>
 
-**Test:** Click the **Run** button.
+## Now run your code
+
+Click the **Run** button and check that the `Facial expressions` subheading appears under the main heading.

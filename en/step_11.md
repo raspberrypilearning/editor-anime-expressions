@@ -1,12 +1,10 @@
 <h2 class="c-project-heading--task">Use more classes</h2>
 
-### Step 1
-
 The `secondary` and `tertiary` classes set additional colour combinations that look good with the colours in the `primary` class.
 
---- task ---
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
 Also, add the `secondary` class to `<header>`.
---- /task ---
 
 Your line numbers might be slightly different if you added or removed blank lines while editing.
 
@@ -38,13 +36,14 @@ line_highlights: 55
 --- /code ---
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 We use different styles for the header, main content, and footer to make each part look different and special.
 
 </div>
 
+## Now run your code
 
-**Test:** Click the **Run** button. 
+Click the **Run** button and check that the header and footer now use the `secondary` colour style.

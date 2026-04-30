@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Style your page</h2>
 
-### Step 1
-
 ![The mouse clicks on the little triangle next to the line 3 number to collapse the head code.](images/step_2_collapse.gif)
---- /task ---
+
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 The next steps show you how to use CSS to change the colours, fonts, and layout on your web page.
 
@@ -27,9 +26,9 @@ line_highlights: 23-24
 --- /code ---
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 To collapse the `<head>` section after you have seen the change, click the arrow next to it. 
 
@@ -37,8 +36,12 @@ CSS is a style sheet language that defines the presentation of HTML documents, i
 
 </div>
 
-**Test:** Click the **Run** button.
+## Now run your code
 
 Now your page should look like this:
 
+<div class="c-project-output">
 ![style changed for fonts and background](images/style_changed.png)
+</div>
+
+Click the **Run** button and check that the page now uses the new background colours and fonts.

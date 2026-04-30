@@ -1,8 +1,10 @@
 <h2 class="c-project-heading--task">Style your header</h2>
 
-### Step 1
+If you want to apply styling to specific elements, you can create a **class** in a CSS file.
 
-If you want to apply styling to specific elements, you can create a **class** in a CSS file. You can then add a `class=` **attribute** to an element in your HTML code to let the browser know what styling should be applied. 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+You can then add a `class=` **attribute** to an element in your HTML code to let the browser know what styling should be applied.
 
 Back in your `index.html` file, add `class="border-bottom"` in your `<header>` tag.
 
@@ -27,12 +29,14 @@ line_highlights: 29
 
 
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 When you add `class="border-bottom"` in your `<header>` tag, it adds a special border at the bottom of your header.
 
 </div>
 
-**Test:** Click the **Run** button. 
+## Now run your code
+
+Click the **Run** button and check that the header now has a border along the bottom.

@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Style your image</h2>
 
-### Step 1
-
 Next add the `rounded` class to the `<img>`.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 <div class="c-project-code">
 --- code ---
@@ -23,5 +22,6 @@ line_highlights: 41
 --- /code ---
 </div>
 
+## Now run your code
 
-**Test:** Click the **Run** button. 
+Click the **Run** button and check that the image now has rounded corners.

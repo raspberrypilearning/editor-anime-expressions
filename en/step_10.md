@@ -1,8 +1,10 @@
 <h2 class="c-project-heading--task">Add more styles</h2>
 
-### Step 1
+You can add more than one CSS class to a tag.
 
-You can add more than one CSS class to a tag. Your CSS file has three classes called `primary`, `secondary` and `tertiary`.
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+Your CSS file has three classes called `primary`, `secondary` and `tertiary`.
 
 The `primary` class sets a contrasting background and text colour for most of the main content. 
 
@@ -26,6 +28,6 @@ line_highlights: 34
 --- /code ---
 </div>
 
+## Now run your code
 
-
-**Test:** Click the **Run** button. 
+Click the **Run** button and check that the page still opens normally and uses the same main colours as before.

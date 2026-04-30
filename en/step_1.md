@@ -1,25 +1,22 @@
 <h2 class="c-project-heading--task">Add a header</h2>
 
-
-
 The starter project to the right has some code already written for you.
 
---- task ---
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
 Click on the small triangle next to line 3 to collapse the `<head>`.
 
+<div class="c-project-output">
 ![alt=""](images/step_2_collapse.gif)
-
---- /task ---
-
-### Step 1
+</div>
 
 Add in an `<h1>` tag with some text to add a header to your webpage.
 
 
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 The `<h1>` tag is used to define the main heading of your webpage. It's like the title of a book.
 
@@ -45,12 +42,14 @@ line_highlights: 30
 </div>
 
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 When you open a tag like `<h1>`, the code editor will automatically add a closing tag `</h1>` for you.
 
 </div>
 
-**Test:** Click the **Run** button.
+## Now run your code
+
+Click the **Run** button and check that the page shows the `Draw anime with me` heading.

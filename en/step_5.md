@@ -1,9 +1,10 @@
 <h2 class="c-project-heading--task">Add some descriptive text</h2>
 
-### Step 1
+You can copy the paragraph and paste it into your code: `<p>To make your anime character look like they are in love, replace the eyes with rounded hearts.
 
-You can copy the paragraph and paste it into your code: `<p>To make your anime character look like they are in love, replace the eyes with rounded hearts. You can add three more hearts inside for a fun effect.</p>`
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
+You can add three more hearts inside for a fun effect.</p>`
 
 <div class="c-project-code">
 
@@ -24,12 +25,14 @@ line_highlights: 42
 --- /code ---
 </div>
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 The `<strong>` tag makes a word look bold and important, making it stand out.
 
 </div>
 
-**Test:** Click the **Run** button. 
+## Now run your code
+
+Click the **Run** button and check that the first expression image and its instructions appear together.

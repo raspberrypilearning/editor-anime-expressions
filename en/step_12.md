@@ -1,9 +1,8 @@
 <h2 class="c-project-heading--task">Align your content</h2>
 
-### Step 1
+The `xcenter` class in your CSS file aligns items horizontally across the page.
 
-The `xcenter` class in your CSS file aligns items horizontally across the page. 
-
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 Your line numbers might be slightly different from the example.
 
@@ -26,6 +25,6 @@ line_highlights: 35, 37
 --- /code ---
 </div>
 
+## Now run your code
 
-
-**Test:** Click the **Run** button. 
+Click the **Run** button and check that the introduction paragraph is centred.

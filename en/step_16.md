@@ -1,11 +1,8 @@
 <h2 class="c-project-heading--task">Colours and fonts</h2>
 
-### Step 1
-
---- task ---
 Go to `index.html`.
---- /task ---
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
 <div class="c-project-code">
 --- code ---
@@ -25,14 +22,18 @@ line_highlights: 24
 </div>
 
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 Try out different styles for your web page. Look at the other CSS files, and choose the one that you like the best.
 
 </div>
 
-**Test:** Click the **Run** button. 
+## Now run your code
 
+<div class="c-project-output">
 ![page restyled with colours and fonts](images/vivid_style.png)
+</div>
+
+Click the **Run** button and check that the page is restyled with the colours and fonts from the new CSS file.
