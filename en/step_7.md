@@ -2,8 +2,6 @@
 
 ![The Code Editor with the style.css file highlighted](images/select-style.png)
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 Select the `style.css` file to open it in a new tab.
 
 

@@ -2,8 +2,6 @@
 
 Underneath your `<h2>` heading code, add the paragraph `<p>` tags.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 Between the `<p>` tags, add in some introductory text.
 
 

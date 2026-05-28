@@ -2,8 +2,6 @@
 
 ![The Project files icon and file list in the Code Editor.](images/select-file.png)
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Your starter project contains images to use in this project. `love.png` is one of the images.

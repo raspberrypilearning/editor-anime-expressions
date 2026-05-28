@@ -2,8 +2,6 @@
 
 ![The mouse clicks on the little triangle next to the line 3 number to collapse the head code.](images/step_2_collapse.gif)
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 The next steps show you how to use CSS to change the colours, fonts, and layout on your web page.
 
 
