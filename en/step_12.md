@@ -2,8 +2,6 @@
 
 The `xcenter` class in your CSS file aligns items horizontally across the page.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 Your line numbers might be slightly different from the example.
 
 <div class="c-project-code">
