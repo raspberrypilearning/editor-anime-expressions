@@ -2,8 +2,6 @@
 
 You can add more than one CSS class to a tag.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 Your CSS file has three classes called `primary`, `secondary` and `tertiary`.
 
 The `primary` class sets a contrasting background and text colour for most of the main content. 
