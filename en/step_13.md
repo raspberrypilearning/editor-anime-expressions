@@ -2,8 +2,6 @@
 
 Add the `dashed-border` class to the `<img>`.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 Your line numbers might be slightly different from the example.
 
 
