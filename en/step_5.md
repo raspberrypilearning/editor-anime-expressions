@@ -1,8 +1,8 @@
 <h2 class="c-project-heading--task">Add some descriptive text</h2>
 
-You can copy the paragraph and paste it into your code: `<p>To make your anime character look like they are in love, replace the eyes with rounded hearts.
+Copy and paste this paragraph into your `<section>`.
 
-You can add three more hearts inside for a fun effect.</p>`
+```<p>To make your anime character look like they are in <strong>love</strong>, replace the eyes with two rounded hearts. You can add three more hearts inside for a fun effect.</p>```
 
 <div class="c-project-code">
 
