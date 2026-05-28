@@ -2,8 +2,6 @@
 
 You can copy the paragraph and paste it into your code: `<p>To make your anime character look like they are in love, replace the eyes with rounded hearts.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 You can add three more hearts inside for a fun effect.</p>`
 
 <div class="c-project-code">
