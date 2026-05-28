@@ -2,8 +2,6 @@
 
 If you want to apply styling to specific elements, you can create a **class** in a CSS file.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 You can then add a `class=` **attribute** to an element in your HTML code to let the browser know what styling should be applied.
 
 Back in your `index.html` file, add `class="border-bottom"` in your `<header>` tag.
