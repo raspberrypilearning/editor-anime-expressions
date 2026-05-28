@@ -2,8 +2,6 @@
 
 On your web page, the main content is broken down into **sections**.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 Your code should look like this:
 
 <div class="c-project-code">
