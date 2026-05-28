@@ -2,8 +2,6 @@
 
 Add the `border-top` class to your `footer` code to apply a thick border to the top of your footer.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 <div class="c-project-code">
 --- code ---
 ---
