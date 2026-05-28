@@ -2,8 +2,6 @@
 
 The starter project to the right has some code already written for you.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 Click on the small triangle next to line 3 to collapse the `<head>`.
 
 <div class="c-project-output">
