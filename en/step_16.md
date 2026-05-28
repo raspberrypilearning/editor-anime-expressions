@@ -2,8 +2,6 @@
 
 Go to `index.html`.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 <div class="c-project-code">
 --- code ---
 ---
