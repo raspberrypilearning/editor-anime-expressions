@@ -2,8 +2,6 @@
 
 CSS can be used to make your web page appear different when viewed on different devices.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 <div class="c-project-code">
 --- code ---
 ---
