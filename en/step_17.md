@@ -1,14 +1,16 @@
-<h2 class="c-project-heading--task">Add more images</h2>
+## Challenge!
 
-Improve accessibility by updating the `alt` text so each expression is more clearly described.
+> [!CHALLENGE]
+>
+> Improve accessibility by updating the `alt` text so each expression is more clearly described.
 
-## Step 1
+> [!CHALLENGE]
+>
+> Add a new section that compares two expressions side-by-side.
 
-Add a new section that compares two expressions side-by-side.
-
-## Step 2
-
-Create a custom stylesheet by copying your current one into a **new** CSS file and updating background, heading, and accent colours.
+> [!CHALLENGE]
+>
+> Create a custom stylesheet by copying your current one into a **new** CSS file and updating background, heading, and accent colours.
 
 ## Now run your code
 

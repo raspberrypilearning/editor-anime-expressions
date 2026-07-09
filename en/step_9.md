@@ -1,30 +1,19 @@
-<h2 class="c-project-heading--task">Style your footer</h2>
+## Style your footer
 
 Add the `border-top` class to your `footer` code to apply a thick border to the top of your footer.
 
-<div class="c-project-code">
---- code ---
----
-language: html
-filename: index.html
-line_numbers: true
-line_number_start: 54
-line_highlights: 55
----
+```html filename="index.html" line_numbers="true" line_number_start="54" line_highlights="55"
     <!-- Footer code goes here. -->
     <footer class="border-top">
 
     </footer>
 
---- /code ---
-</div>
+```
 
 ## Now run your code
 
-You should see a border in the footer of your page
+You should see a border in the footer of your page.
 
-<div class="c-project-output">
 ![a blue border on the footer](images/footer-border.png)
-</div>
 
 Click the **Run** button and check that the footer now has a border.

@@ -29,7 +29,6 @@ steps:
   - title: Style your image
   - title: Make it responsive
   - title: Colours and fonts
-  - title: Add more images
     completion:
       - external
   - title: Challenge

@@ -1,18 +1,10 @@
-<h2 class="c-project-heading--task">Align your content</h2>
+## Align your content
 
 The `xcenter` class in your CSS file aligns items horizontally across the page.
 
 Your line numbers might be slightly different from the example.
 
-<div class="c-project-code">
---- code ---
----
-language: html
-filename: index.html
-line_numbers: true
-line_number_start: 33
-line_highlights: 35, 37
----
+```html filename="index.html" line_numbers="true" line_number_start="33" line_highlights="35,37"
     <!-- The main content for the web page goes between the main tags -->
     <main class="primary">
       <section class="tertiary">
@@ -20,8 +12,7 @@ line_highlights: 35, 37
         <p class="xcenter">Take a look at these facial expressions and try them in your own drawings.</p>
       </section>
 
---- /code ---
-</div>
+```
 
 ## Now run your code
 
