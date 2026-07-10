@@ -1,6 +1,8 @@
 ## Make it responsive
 
-CSS can be used to make your web page appear different when viewed on different devices.
+CSS can be used to make your webpage appear differently when viewed on different devices.
+
+Make the below change to your code.
 
 ```html filename="index.html" line_numbers="true" line_number_start="39" line_highlights="40"
     <!-- The first drawing and instructions go here -->
@@ -13,8 +15,4 @@ CSS can be used to make your web page appear different when viewed on different 
 
 ## Now run your code
 
-Click the **Run** button. Adjust the size of the output window to see responsiveness of your page.
-
-![page restyled with colours and fonts](images/vivid_style.png)
-
-Click the **Run** button and check that the page layout adjusts to fit when you make the output window wider or narrower.
+Click the **Run** button. Change the size of the output window and check that the page layout adjusts to fit.

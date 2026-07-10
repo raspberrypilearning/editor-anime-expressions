@@ -1,12 +1,13 @@
 ## Edit your style sheet
 
-![The Code Editor with the style.css file highlighted](images/select-style.png)
+![The 'Project files' panel open in the Code Editor, with the 'Project files' icon highlighted.](images/select-style.png)
 
 Select the `style.css` file to open it in a new tab.
 
-**Find:** Scroll down and find the rule that controls the style of the `<h2>`.
 
-At the moment, the `<h2>` heading is aligned to the left.
+**Find:** Scroll down and find the rule that controls the style of the `<h2>` heading. 
+
+At the moment, the `<h2>` heading is aligned to the left. Change the code so that the heading is centred.
 
 ```css filename="style.css" line_numbers="true" line_number_start="109" line_highlights="111"
 
@@ -24,4 +25,4 @@ h2 {
 
 ## Now run your code
 
-Click the **Run** button and check that the `Facial expressions` heading is centred.
+Click the **Run** button and check that the "Facial expressions" heading is centred.

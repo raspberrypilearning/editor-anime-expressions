@@ -2,7 +2,7 @@
 
 The `secondary` and `tertiary` classes set additional colour combinations that look good with the colours in the `primary` class.
 
-Also, add the `secondary` class to the `<header>` and `<footer>`.
+You can add more than one CSS class to a tag. Add the `secondary` class to the `<header>` and `<footer>`.
 
 Your line numbers might be slightly different if you added or removed blank lines while editing.
 

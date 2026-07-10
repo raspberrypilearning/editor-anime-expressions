@@ -1,6 +1,6 @@
 ## Style your image
 
-Next add the `rounded` class to the `<img>`.
+Next, add the `rounded` class to the `<img>`.
 
 ```html filename="index.html" line_numbers="true" line_number_start="39" line_highlights="41"
     <!-- The first drawing and instructions go here -->

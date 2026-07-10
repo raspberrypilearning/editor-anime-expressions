@@ -2,7 +2,7 @@
 
 Add the `dashed-border` class to the `<img>`.
 
-Your line numbers might be slightly different from the example.
+Your line numbers might be slightly different to the example.
 
 ```html filename="index.html" line_numbers="true" line_number_start="39" line_highlights="41"
     <!-- The first drawing and instructions go here -->
@@ -15,6 +15,6 @@ Your line numbers might be slightly different from the example.
 
 ## Now run your code
 
-![images with a blue dashed-border](images/dashed-border.png)
+![The image on the page with a blue dashed border.](images/dashed-border.png)
 
 Click the **Run** button and check that the image now has a blue dashed border.

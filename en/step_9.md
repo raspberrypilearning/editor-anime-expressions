@@ -14,6 +14,6 @@ Add the `border-top` class to your `footer` code to apply a thick border to the 
 
 You should see a border in the footer of your page.
 
-![a blue border on the footer](images/footer-border.png)
+![The page with a blue border in the footer.](images/footer-border.png)
 
 Click the **Run** button and check that the footer now has a border.
